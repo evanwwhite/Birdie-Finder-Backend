@@ -1,0 +1,8 @@
+{
+  "data_version": "synthetic-2026-10-02-v1",
+  "data": [
+    { "id": "22222222-2222-4222-8222-222222222222", "name": "Synthetic Open Field", "city": "Testville", "state": "TS", "location": null, "reported_hole_count": 2, "published_layout_version_ids": [] },
+    { "id": "11111111-1111-4111-8111-111111111111", "name": "Synthetic Pine Loop", "city": "Testville", "state": "TS", "location": null, "reported_hole_count": 3, "published_layout_version_ids": ["44444444-4444-4444-8444-444444444444"] }
+  ],
+  "page": { "limit": 25, "next_cursor": null }
+}

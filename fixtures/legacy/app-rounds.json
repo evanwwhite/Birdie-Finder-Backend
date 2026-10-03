@@ -1,0 +1,60 @@
+{
+  "state": {
+    "live": {
+      "id": "livea001",
+      "courseId": "synthetic-open-field",
+      "courseName": "Synthetic Open Field",
+      "layout": "Blue",
+      "startedAt": "2026-10-02T17:00:00.000Z",
+      "players": [{ "id": "player01", "name": "Test Player", "initials": "TP" }],
+      "pars": [3, 3],
+      "scores": { "player01": { "1": 3 } },
+      "cur": 2,
+      "throwing": "player01"
+    },
+    "history": [
+      {
+        "id": "round001",
+        "courseId": "synthetic-pine-loop",
+        "courseName": "Synthetic Pine Loop",
+        "layout": "Blue",
+        "playedAt": "2026-10-02T16:00:00.000Z",
+        "holes": 2,
+        "par": 6,
+        "total": 7,
+        "relPar": 1,
+        "scores": { "player01": { "1": 3, "2": 4 } },
+        "players": [{ "id": "player01", "name": "Test Player", "initials": "TP" }],
+        "pars": [3, 3]
+      },
+      {
+        "id": "round002",
+        "courseId": "synthetic-pine-loop",
+        "courseName": "Synthetic Pine Loop",
+        "layout": "Blue",
+        "playedAt": "2026-10-02T16:00:00.000Z",
+        "holes": 2,
+        "par": 6,
+        "total": 7,
+        "relPar": 1,
+        "scores": { "player01": { "1": 3, "2": 4 } },
+        "players": [{ "id": "player01", "name": "Test Player", "initials": "TP" }],
+        "pars": [3, 3]
+      },
+      {
+        "id": "oldr0001",
+        "courseId": "synthetic-open-field",
+        "courseName": "Synthetic Open Field",
+        "layout": "Blue",
+        "playedAt": "2026-09-20T12:00:00.000Z",
+        "holes": 2,
+        "par": 6,
+        "total": 6,
+        "relPar": 0,
+        "scores": { "player01": { "1": 3, "2": 3 } },
+        "players": [{ "id": "player01", "name": "Test Player", "initials": "TP" }]
+      }
+    ]
+  },
+  "version": 0
+}

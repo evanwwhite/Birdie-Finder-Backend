@@ -1,0 +1,29 @@
+[
+  {
+    "course": "Synthetic Pine Loop",
+    "courseId": "synthetic-pine-loop",
+    "date": "Oct 02, 2026",
+    "holes": 2,
+    "layout": "Test Route",
+    "total": 7,
+    "rel": 1,
+    "players": [{ "name": "Test Player", "scores": [3, 4] }]
+  },
+  {
+    "course": "Synthetic Pine Loop",
+    "courseId": "synthetic-pine-loop",
+    "date": "Oct 02, 2026",
+    "holes": 2,
+    "layout": "Test Route",
+    "total": 7,
+    "rel": 1,
+    "players": [{ "name": "Test Player", "scores": [3, 4] }]
+  },
+  {
+    "course": "Unmatched Practice Spot",
+    "date": "Sep 20, 2026",
+    "holes": 2,
+    "total": 6,
+    "players": [{ "name": "Test Player", "scores": [3, 3] }]
+  }
+]

@@ -1,0 +1,47 @@
+# Version one solo-round contract
+
+These JSON examples define the shared shape that the website and phone will consume in B4. They are synthetic development data, not published course facts. The logical `/v1` paths are a contract vocabulary, not an HTTP server. B1/B2 implemented the catalog and private-round tables, local seed, RLS, and transactional `create_solo_round_v1`, `write_score_v1`, and `complete_round_v1` RPCs. Catalog search/pagination and the client adapters remain B3/B4 work. The RPCs take one `p_request jsonb` argument and return this contract's `{ "data": ... }` or `{ "error": ... }` envelope. Authenticated clients can read their own round tables under RLS; the B4 adapter will assemble the documented read shape.
+
+## Common rules
+
+- Canonical course, layout, layout-version, layout-hole, round, participant, round-hole snapshot, and mutation IDs are immutable UUIDs. A legacy course slug is **never** a canonical ID. `hole_number` is a positive, one-based sequence within a layout or round snapshot, not an ID.
+- Public catalog reads carry `data_version`, an opaque publication identifier. A round carries the `data_version` frozen when it starts. A catalog refresh never rewrites that round's holes. The synthetic examples use `synthetic-2026-10-02-v1` and must stay out of public builds.
+- A single-object read or mutation result is `{ "data": ... }`; a catalog read also includes `data_version`. A collection read is `{ "data": [...], "page": { "limit": ..., "next_cursor": ... }, "data_version": ... }`. `next_cursor: null` means there is no next page.
+- Catalog pages use stable `(name, id)` order, limit 1–100 (default 25), and an opaque cursor bound to the filters and `data_version`. Changing filters or publication during pagination returns `INVALID_CURSOR`; clients restart at page one. No offset paging. Round lists use newest `started_at`, then UUID, with a private cursor.
+- External IDs live in `course_external_ids` with a provider namespace and exact legacy slug. The same canonical course may have a web and app slug. Import resolves `(provider, external_id)` through this crosswalk; an absent or ambiguous match stays unresolved for review. A name similarity is never enough to select a course. [course-external-ids.json](examples/course-external-ids.json) shows two synthetic mappings.
+- Null means unknown or unavailable, not zero. Optional fields may be omitted only where stated below. Explicit `null` fields in the response shape must remain present so both clients render them consistently.
+- Public catalog reads may be anonymous. A round read or write requires the authenticated owner; another account receives `NOT_FOUND` for a private round. Authorization is checked before conflict details are returned. Only the owner's participant can be scored in version one.
+
+## Catalog reads
+
+| Logical operation | Shape and example | Initial Supabase implementation target |
+| --- | --- | --- |
+| `GET /v1/courses?limit=&cursor=&lat=&lng=&radius_m=` | [courses-page.json](examples/courses-page.json); `data` contains course summaries, `page` and `data_version` | B1 `courses` plus `course_external_ids`; B3 read view or query with keyset paging and optional geospatial filter. |
+| `GET /v1/courses/{course_id}` | [course-known.json](examples/course-known.json) or [course-no-layout.json](examples/course-no-layout.json); `published_layout_version_ids` may be empty | B1 `courses` + published `layout_versions` read, restricted to approved/synthetic development catalog. |
+| `GET /v1/layouts/{layout_version_id}` | [layout-known.json](examples/layout-known.json); ordered hole sequence and per-field provenance | B1 `layout_versions` + `layout_holes` through a security-invoker view or RLS-checked nested query. |
+
+`location`, `reported_hole_count`, `par`, `distance_ft`, and each field's `provenance` may be null. A course without a published layout returns `published_layout_version_ids: []`; it does **not** return a generated layout. A published layout is selectable only if its ordered hole sequence is present. `par` or `distance_ft` may still be null for individual holes. `par` and `distance_ft` provenance describe those fields independently. Synthetic provenance is for tests only and does not claim real-world verification.
+
+## Round writes and reads
+
+| Logical operation | Request and result examples | Initial Supabase implementation target |
+| --- | --- | --- |
+| `POST /v1/rounds` with a published version | [create-known-request.json](examples/create-known-request.json) → [create-known-result.json](examples/create-known-result.json) | B2 `create_solo_round_v1` RPC: atomically insert `rounds`, owner `round_participants`, and ordered `round_hole_snapshots` from published `layout_holes`. |
+| `POST /v1/rounds` with a private custom snapshot | [create-custom-request.json](examples/create-custom-request.json) → [round-custom.json](examples/round-custom.json) | Same RPC; store user-confirmed holes directly as private snapshots, with `layout_version_id: null`. Do not insert a published layout. |
+| `GET /v1/rounds/{round_id}` | [round-live.json](examples/round-live.json) or [round-complete.json](examples/round-complete.json) | B2 RLS-protected `rounds`, participants, snapshots, and scores, assembled by a security-invoker view/query or owner-checked read RPC. |
+| `PUT /v1/rounds/{round_id}/scores/{participant_id}/{hole_number}` | [write-score-request.json](examples/write-score-request.json) → [write-score-result.json](examples/write-score-result.json) | B2 `write_score_v1` RPC; validates owner, participant, snapshot membership, stroke range, mutation UUID, and expected revision in one transaction. |
+| Same score request, repeated | [write-score-replay-request.json](examples/write-score-replay-request.json) → [write-score-replay-result.json](examples/write-score-replay-result.json) | Same RPC returns the stored acknowledgement for the same owner + mutation UUID and identical payload. It does not change a score or revision. |
+| Stale score request | [write-score-stale-request.json](examples/write-score-stale-request.json) → [write-score-stale-result.json](examples/write-score-stale-result.json) | Same RPC rejects with `STALE_REVISION` and current authorized score/revision. No mutation receipt or score change is committed. |
+| `POST /v1/rounds/{round_id}/complete` | [complete-round-request.json](examples/complete-round-request.json) → [round-complete.json](examples/round-complete.json) | B2 `complete_round_v1` RPC checks every owner hole has a recorded score, then derives totals and advances revision atomically. |
+
+Creation accepts client-generated `round_id` and `participant_id`. Repeating the same create payload with the same `round_id` returns the original round; changing its payload returns `IDEMPOTENCY_CONFLICT`. For a published layout the server copies the **current published version** into the round; the client does not submit supposedly verified hole facts. For a custom layout, the user confirms each numbered hole and may enter par; null par and distance stay null. Any user-entered par gets `par_source: "user_entered"`. The server rejects duplicate or skipped hole numbers. Both creation modes store round-hole snapshot UUIDs and freeze the selected `data_version`.
+
+`scores` is an array with one cell for every snapshot hole. `strokes: null` is a **read-only representation** of an unplayed cell: there is no `hole_scores` row. Score writes require integer strokes from 1 through 12; they cannot write null. A live round's `total_strokes` and `vs_par` are null. A complete round's `total_strokes` is derived from all saved owner scores. `vs_par` is null unless every included hole has known par; with user-entered par it may be shown only with a user-entered label. A completion request with an unplayed hole returns `INCOMPLETE_ROUND`, leaves the round live, and reports missing hole numbers.
+
+The [round-live.json](examples/round-live.json) read follows the first successful score write. Two further score writes advance revision to 3 before the example completion request; those intermediate acknowledgements are omitted. Completion advances it to 4.
+
+`revision` is a round-wide, monotonically increasing integer. A successful score change or completion increments it once; a replay does not. `mutation_id` is unique per owner and write. The replay response is the stored acknowledgement, byte-for-byte the same JSON value as the first success; callers distinguish a retry by their own outbox state. Reusing a mutation ID with a different request returns `IDEMPOTENCY_CONFLICT` even if the round revision changed. A new mutation with a stale `expected_revision` returns `STALE_REVISION`; the client must fetch current state and ask the user to resolve the edit. Device clocks do not decide conflicts.
+
+## Error shape
+
+Errors use `{ "error": { "code": "...", "message": "...", "details": ... } }`. `details` is omitted when there is nothing actionable; error messages are safe to display but clients should branch on `code`. Initial codes: `UNAUTHENTICATED`, `NOT_FOUND`, `INVALID_REQUEST`, `INVALID_CURSOR`, `INVALID_SCORE`, `INCOMPLETE_ROUND`, `STALE_REVISION`, and `IDEMPOTENCY_CONFLICT`. Catalog IDs that do not exist return `NOT_FOUND`. Private round reads and writes by unrelated accounts also return `NOT_FOUND`. The B2 RPCs will return equivalent structured results; Supabase transport errors are normalized by the client adapter into this shape.

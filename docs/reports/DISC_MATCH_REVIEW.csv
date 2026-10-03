@@ -1,0 +1,1148 @@
+app_slug,app_brand,app_mold,web_numeric_id_candidates,canonical_candidate_uuid,status
+abc-discs-money-putter,ABC Discs,Money Putter,,,unmatched_app_mold
+above-ground-level-baobab,Above Ground Level,Baobab,540,74c53d7c-3aaa-597e-91da-6818484e2a10,candidate_exact_brand_mold
+above-ground-level-beech,Above Ground Level,Beech,22930,e8b54983-ca86-5889-b109-e9d19a100cb9,candidate_exact_brand_mold
+above-ground-level-cedar,Above Ground Level,Cedar,536,014e8dd2-bcdf-543f-9047-7ac10b1719d3,candidate_exact_brand_mold
+above-ground-level-douglas-fir,Above Ground Level,Douglas Fir,108476,9136d639-fd76-5c69-8b9b-fffe2dd1e150,candidate_exact_brand_mold
+above-ground-level-elm,Above Ground Level,Elm,,,unmatched_app_mold
+above-ground-level-juniper,Above Ground Level,Juniper,,,unmatched_app_mold
+above-ground-level-koa,Above Ground Level,Koa,,,unmatched_app_mold
+above-ground-level-locust,Above Ground Level,Locust,6045,d2096da8-29d7-5d8f-9a0e-d916d0ded654,candidate_exact_brand_mold
+above-ground-level-madrone,Above Ground Level,Madrone,541,2d8e0c7e-cc7f-5b9e-9dac-3f0813d1a46f,candidate_exact_brand_mold
+above-ground-level-magnolia,Above Ground Level,Magnolia,539,3e96c5f7-5643-590d-9d84-98911ba5d9e2,candidate_exact_brand_mold
+above-ground-level-manzanita,Above Ground Level,Manzanita,542,57786a41-eb00-5f9f-80bc-43e825a73987,candidate_exact_brand_mold
+above-ground-level-ponderosa,Above Ground Level,Ponderosa,543,b8e96fa8-b8be-588e-b856-e99e1451071e,candidate_exact_brand_mold
+above-ground-level-redwood,Above Ground Level,Redwood,28066,66ab03d2-b922-5b42-8851-bf2713ff8e94,candidate_exact_brand_mold
+above-ground-level-sequoia,Above Ground Level,Sequoia,,,unmatched_app_mold
+above-ground-level-spruce,Above Ground Level,Spruce,28168,80a238d5-03e8-58d0-a8b6-b7ac0c5165e3,candidate_exact_brand_mold
+above-ground-level-sycamore,Above Ground Level,Sycamore,538,ef0e61f6-af0c-560d-ac99-70f976583144,candidate_exact_brand_mold
+aquaflight-dragonfly,AquaFlight,Dragonfly,,,unmatched_app_mold
+aquaflight-osprey,AquaFlight,Osprey,,,unmatched_app_mold
+aquaflight-peace-frog,AquaFlight,Peace Frog,,,unmatched_app_mold
+aquaflight-pelican,AquaFlight,Pelican,,,unmatched_app_mold
+aquaflight-swift,AquaFlight,Swift,,,unmatched_app_mold
+axiom-discs-balance,Axiom Discs,Balance,,,unmatched_app_mold
+axiom-discs-bokeh,Axiom Discs,Bokeh,,,unmatched_app_mold
+axiom-discs-crave,Axiom Discs,Crave,,,unmatched_app_mold
+axiom-discs-defy,Axiom Discs,Defy,,,unmatched_app_mold
+axiom-discs-delirium,Axiom Discs,Delirium,,,unmatched_app_mold
+axiom-discs-envy,Axiom Discs,Envy,,,unmatched_app_mold
+axiom-discs-excite,Axiom Discs,Excite,,,unmatched_app_mold
+axiom-discs-fireball,Axiom Discs,Fireball,,,unmatched_app_mold
+axiom-discs-hex,Axiom Discs,Hex,,,unmatched_app_mold
+axiom-discs-insanity,Axiom Discs,Insanity,,,unmatched_app_mold
+axiom-discs-mayhem,Axiom Discs,Mayhem,,,unmatched_app_mold
+axiom-discs-panic,Axiom Discs,Panic,,,unmatched_app_mold
+axiom-discs-paradox,Axiom Discs,Paradox,,,unmatched_app_mold
+axiom-discs-pitch,Axiom Discs,Pitch,,,unmatched_app_mold
+axiom-discs-pixel,Axiom Discs,Pixel,,,unmatched_app_mold
+axiom-discs-proxy,Axiom Discs,Proxy,,,unmatched_app_mold
+axiom-discs-pyro,Axiom Discs,Pyro,,,unmatched_app_mold
+axiom-discs-rhythm,Axiom Discs,Rhythm,,,unmatched_app_mold
+axiom-discs-tantrum,Axiom Discs,Tantrum,,,unmatched_app_mold
+axiom-discs-tenacity,Axiom Discs,Tenacity,,,unmatched_app_mold
+axiom-discs-thrill,Axiom Discs,Thrill,,,unmatched_app_mold
+axiom-discs-time-lapse,Axiom Discs,Time-Lapse,,,unmatched_app_mold
+axiom-discs-time-lapse-retooled,Axiom Discs,Time-Lapse (Retooled),,,unmatched_app_mold
+axiom-discs-trance,Axiom Discs,Trance,,,unmatched_app_mold
+axiom-discs-uplink,Axiom Discs,Uplink,,,unmatched_app_mold
+axiom-discs-vanish,Axiom Discs,Vanish,,,unmatched_app_mold
+axiom-discs-virus,Axiom Discs,Virus,,,unmatched_app_mold
+axiom-discs-wrath,Axiom Discs,Wrath,,,unmatched_app_mold
+bernoulli-disc-golf-bernoulli-putter,Bernoulli Disc Golf,Bernoulli Putter,,,unmatched_app_mold
+bernoulli-disc-golf-einstein,Bernoulli Disc Golf,Einstein,,,unmatched_app_mold
+bernoulli-disc-golf-hubble,Bernoulli Disc Golf,Hubble,,,unmatched_app_mold
+bernoulli-disc-golf-johnson,Bernoulli Disc Golf,Johnson,,,unmatched_app_mold
+birdie-marvel,Birdie,Marvel,33460,d2e171e4-2389-5dfc-b427-f46cf2928ef2,candidate_exact_brand_mold
+birdie-reach,Birdie,Reach,150076,68ba5c95-5a72-5005-a15d-3842783381ff,candidate_exact_brand_mold
+birdie-rise,Birdie,Rise,178169,4aa57970-ca21-595d-ac81-0dc25cdbba7b,candidate_exact_brand_mold
+birdie-weapon,Birdie,Weapon,198243,7fdb5f8d-3106-5530-b20d-82fc23c6277a,candidate_exact_brand_mold
+clash-discs-berry,Clash Discs,Berry,27503,4c1efb76-e9f5-5cc5-9478-b97f371ffb8a,candidate_exact_brand_mold
+clash-discs-butter,Clash Discs,Butter,51235,5106bee4-6b1a-5fcc-b373-90806e52e5c3,candidate_exact_brand_mold
+clash-discs-candy,Clash Discs,Candy,156525,2f2960ee-eccc-5285-993d-0cf3312d4eeb,candidate_exact_brand_mold
+clash-discs-cherry,Clash Discs,Cherry,160202,e7f44501-fa19-53a4-8b0c-9701de12e18b,candidate_exact_brand_mold
+clash-discs-cinnamon,Clash Discs,Cinnamon,127901,2c4d44a0-59aa-5c66-833f-cee0f8981446,candidate_exact_brand_mold
+clash-discs-cookie,Clash Discs,Cookie,68942,64c42b16-dc83-50f0-8969-89bbb6f84c2c,candidate_exact_brand_mold
+clash-discs-fudge,Clash Discs,Fudge,118919,d245afc6-4828-5fae-afb1-c08eeba24419,candidate_exact_brand_mold
+clash-discs-ginger,Clash Discs,Ginger,27720,caf6b9fa-485d-5970-9d2b-a0c5a69d65c4,candidate_exact_brand_mold
+clash-discs-guava,Clash Discs,Guava,160201,a6a64538-2b35-5573-a708-c5a05c62656a,candidate_exact_brand_mold
+clash-discs-lotus,Clash Discs,Lotus,119104,3506ce03-3c7c-5f7a-b9a2-bf8af68a5a10,candidate_exact_brand_mold
+clash-discs-mango,Clash Discs,Mango,27880,713e86ae-3676-5286-b279-0c9526d1ad8e,candidate_exact_brand_mold
+clash-discs-millet,Clash Discs,Millet,184186,6f4393c1-9846-593b-aecc-3d30db271b57,candidate_exact_brand_mold
+clash-discs-peach,Clash Discs,Peach,86580,b1bff0c6-09d7-5779-aefa-beac78f2d326,candidate_exact_brand_mold
+clash-discs-pepper,Clash Discs,Pepper,27998,226d68ee-4a7c-5168-b2dd-b49494932daa,candidate_exact_brand_mold
+clash-discs-popcorn,Clash Discs,Popcorn,28017,e8d24498-7c7e-57d0-90c1-dc8cb8f478e8,candidate_exact_brand_mold
+clash-discs-sage,Clash Discs,Sage,131109,a2bae534-a7b4-5c17-8a3f-45f7e4df86fa,candidate_exact_brand_mold
+clash-discs-salt,Clash Discs,Salt,61966,a31be4e2-a1fb-56f4-8d58-34f3be323862,candidate_exact_brand_mold
+clash-discs-soda,Clash Discs,Soda,51892,09d8e7d2-cb55-5b02-beb1-ae0f00632647,candidate_exact_brand_mold
+clash-discs-spice,Clash Discs,Spice,112577,eea477c8-a9fa-5274-b753-34e165d687b9,candidate_exact_brand_mold
+clash-discs-vanilla,Clash Discs,Vanilla,143158,7600a1ff-619c-5a93-ad72-5dbb45d35398,candidate_exact_brand_mold
+clash-discs-wild-honey,Clash Discs,Wild Honey,86938,95446ddc-996a-53e6-8bce-8edd9a9bf41b,candidate_exact_brand_mold
+climo-disc-golf-apogee,Climo Disc Golf,Apogee,,,unmatched_app_mold
+climo-disc-golf-belleair,Climo Disc Golf,Belleair,207436,bfdda9e7-3d1e-551b-92d7-c5b929f8a815,candidate_exact_brand_mold
+climo-disc-golf-champ,Climo Disc Golf,Champ,207437,79579d5d-65fe-5a30-89f0-b2a8c331e3d8,candidate_exact_brand_mold
+climo-disc-golf-cliff,Climo Disc Golf,Cliff,,,unmatched_app_mold
+climo-disc-golf-coast,Climo Disc Golf,Coast,,,unmatched_app_mold
+climo-disc-golf-skyway,Climo Disc Golf,Skyway,207438,efcfaf78-326c-584c-8ee5-28736650d874,candidate_exact_brand_mold
+climo-disc-golf-streak,Climo Disc Golf,Streak,,,unmatched_app_mold
+crosslap-credo,Crosslap,Credo,23011,7b992f9b-28ff-5410-b786-5f20c52d0482,candidate_exact_brand_mold
+crosslap-lucky,Crosslap,Lucky,23271,9e93f223-7680-5456-8557-b80bb98ae9d2,candidate_exact_brand_mold
+crosslap-openwater,Crosslap,Openwater,23377,5b5f8c95-5b59-59d4-a4f9-22d475ff087a,candidate_exact_brand_mold
+crosslap-shadowplay,Crosslap,Shadowplay,23541,461a83f7-35d0-5b94-85ec-6ef38e9d5c2e,candidate_exact_brand_mold
+crosslap-vigil,Crosslap,Vigil,23693,0509814c-ace5-54c3-8d01-908195f5c895,candidate_exact_brand_mold
+daredevil-discs-albatross,Daredevil Discs,Albatross,,,unmatched_app_mold
+daredevil-discs-beaver,Daredevil Discs,Beaver,,,unmatched_app_mold
+daredevil-discs-big-horn,Daredevil Discs,Big Horn,,,unmatched_app_mold
+daredevil-discs-bigfoot,Daredevil Discs,BigFoot,,,unmatched_app_mold
+daredevil-discs-buffalo,Daredevil Discs,Buffalo,,,unmatched_app_mold
+daredevil-discs-caribou,Daredevil Discs,Caribou,,,unmatched_app_mold
+daredevil-discs-great-horned-owl,Daredevil Discs,(Great Horned) Owl,,,unmatched_app_mold
+daredevil-discs-grizzly,Daredevil Discs,Grizzly,,,unmatched_app_mold
+daredevil-discs-mammoth,Daredevil Discs,Mammoth,,,unmatched_app_mold
+daredevil-discs-merlin,Daredevil Discs,Merlin,,,unmatched_app_mold
+daredevil-discs-moose,Daredevil Discs,Moose,,,unmatched_app_mold
+daredevil-discs-ogopogo,Daredevil Discs,Ogopogo,,,unmatched_app_mold
+daredevil-discs-polar-bear,Daredevil Discs,Polar Bear,,,unmatched_app_mold
+daredevil-discs-sabertooth,Daredevil Discs,Sabertooth,,,unmatched_app_mold
+daredevil-discs-sasquatch,Daredevil Discs,Sasquatch,,,unmatched_app_mold
+daredevil-discs-swift-fox,Daredevil Discs,Swift Fox,,,unmatched_app_mold
+daredevil-discs-timberwolf,Daredevil Discs,Timberwolf,,,unmatched_app_mold
+daredevil-discs-walrus,Daredevil Discs,Walrus,,,unmatched_app_mold
+daredevil-discs-wolverine,Daredevil Discs,Wolverine,,,unmatched_app_mold
+daredevil-discs-woodchuck,Daredevil Discs,Woodchuck,,,unmatched_app_mold
+daredevil-discs-yeti,Daredevil Discs,Yeti,,,unmatched_app_mold
+dga-aftershock,DGA,Aftershock,769,b692288d-f08c-5266-9638-072206ad6ad7,candidate_exact_brand_mold
+dga-avalanche,DGA,Avalanche,143314,1717577d-1729-5698-81aa-1166a98c1d45,candidate_exact_brand_mold
+dga-banzai,DGA,Banzai,818,39301bb2-bc97-5f2f-a6c7-8aebe2937bc8,candidate_exact_brand_mold
+dga-blowfly,DGA,Blowfly,,,unmatched_app_mold
+dga-breaker,DGA,Breaker,842,b2a0aa94-4bdb-5d70-ac2b-9bf4f50a53e0,candidate_exact_brand_mold
+dga-gumbputt,DGA,Gumbputt,,,unmatched_app_mold
+dga-hellfire,DGA,Hellfire,1064,a9cca111-33fc-59c0-b18f-70885a2279ab,candidate_exact_brand_mold
+dga-hurricane,DGA,Hurricane,1069,f3c3a75b-b7f5-546a-9618-93d731fa97a0,candidate_exact_brand_mold
+dga-hypercane,DGA,Hypercane,22454,adfeeb6f-03d1-525a-918c-ad0a19269a1c,candidate_exact_brand_mold
+dga-pipeline,DGA,Pipeline,1273,4b570fcb-54b9-5076-8aa3-5cd851aa77fe,candidate_exact_brand_mold
+dga-quake,DGA,Quake,1300,97163759-55cb-53b4-bf76-dadf60f35f57,candidate_exact_brand_mold
+dga-reef,DGA,Reef,1324,6f3b6fe8-8f80-57de-9acb-c0cb09bfa74a,candidate_exact_brand_mold
+dga-rift,DGA,Rift,1334,72a2aeae-58bb-59b3-9dbf-05b7a76b001c,candidate_exact_brand_mold
+dga-riptide,DGA,Riptide,1338,b4d12e95-c5d3-557e-8ac8-3026a6daec30,candidate_exact_brand_mold
+dga-rogue,DGA,Rogue,1349,7fd07413-2647-54e3-8051-8aa9f800161f,candidate_exact_brand_mold
+dga-sail,DGA,Sail,1358,f7fb6d0e-2d89-553a-97af-7746c69a52fc,candidate_exact_brand_mold
+dga-shockwave,DGA,Shockwave,1387,a87480fe-a6c8-50b4-a32e-7ca34aa7e072,candidate_exact_brand_mold
+dga-sonar,DGA,Sonar,184578,9604ca59-5dcb-5442-b5a2-d65b195303d1,candidate_exact_brand_mold
+dga-squall,DGA,Squall,1417,83d4d579-1a38-5abe-a35d-29c441eb4118,candidate_exact_brand_mold
+dga-steady,DGA,Steady,1425,1b582370-7fb5-57ca-8584-c020550bb5bb,candidate_exact_brand_mold
+dga-steady-bl,DGA,Steady BL,1426,8e9127e1-5148-586d-b615-4108a34b1c26,candidate_exact_brand_mold
+dga-surf,DGA,Surf,184657,564eb075-c8e6-5b2e-afc3-eb281e68af2e,candidate_exact_brand_mold
+dga-tempest,DGA,Tempest,1467,60b64cfd-64f5-5f2b-bcb3-6d866e627a89,candidate_exact_brand_mold
+dga-torrent,DGA,Torrent,1490,b0a982ca-c2ef-5076-8eeb-6511fc665f3d,candidate_exact_brand_mold
+dga-tremor,DGA,Tremor,1496,cf3f4b4b-e739-5211-8955-8d65ef4b0554,candidate_exact_brand_mold
+dga-tsunami,DGA,Tsunami,1500,a910491a-3148-5287-8ed7-72eba98e326d,candidate_exact_brand_mold
+dga-typhoon,DGA,Typhoon,,,unmatched_app_mold
+dga-undertow,DGA,Undertow,1506,9e7215b5-3899-515d-a621-79a614131779,candidate_exact_brand_mold
+dga-vortex,DGA,Vortex,28292,f4b069e5-adb2-5d10-801c-1d45d0c95622,candidate_exact_brand_mold
+dino-discs-allosaurus,Dino Discs,Allosaurus,207515,7d845338-2740-5f53-9fa6-0eba92224b2e,candidate_exact_brand_mold
+dino-discs-brachiosaurus,Dino Discs,Brachiosaurus,207517,96c6a91e-5965-544c-9812-6692ff08c74f,candidate_exact_brand_mold
+dino-discs-diplodocus,Dino Discs,Diplodocus,207519,f1d21d53-59f1-5f07-b0aa-34e93ef55bc1,candidate_exact_brand_mold
+dino-discs-pterodactyl,Dino Discs,Pterodactyl,,,unmatched_app_mold
+dino-discs-spinosaurus,Dino Discs,Spinosaurus,207521,74502bf0-c74d-57be-8afc-9d58035d08fb,candidate_exact_brand_mold
+dino-discs-tyrannosaurus-rex,Dino Discs,Tyrannosaurus Rex,207524,1f02a49b-06bc-5acf-96e6-b43dff1700ab,candidate_exact_brand_mold
+discmania-astronaut,Discmania,Astronaut,22221,f38cbccd-5fd9-5364-b566-934c3b1b452b,candidate_exact_brand_mold
+discmania-cd-oop,Discmania,CD (OOP),,,unmatched_app_mold
+discmania-cd1,Discmania,CD1,98080,91e097ea-8625-54d9-8ed6-c6de6030d9ee,candidate_exact_brand_mold
+discmania-cd3-oop,Discmania,CD3 (OOP),,,unmatched_app_mold
+discmania-cloudbreaker,Discmania,Cloudbreaker,66945,f4e238f9-80c1-5d63-b623-9b6f2486977d,candidate_exact_brand_mold
+discmania-dd,Discmania,DD,5,2d31831c-a3f2-570f-9d37-0a8a0ebb0f16,candidate_exact_brand_mold
+discmania-dd1,Discmania,DD1,93614,cb3463e8-1a5e-53db-bcad-0b83b34c4d54,candidate_exact_brand_mold
+discmania-dd2,Discmania,DD2,6,ca04928b-f3f1-5876-977f-41900759c5ab,candidate_exact_brand_mold
+discmania-dd2-oop,Discmania,DD2 (OOP),,,unmatched_app_mold
+discmania-dd3,Discmania,DD3,7,5f2dd5c4-3c0a-5461-a874-0bb8d9e589b7,candidate_exact_brand_mold
+discmania-dd4,Discmania,dd4,,,unmatched_app_mold
+discmania-ddx-oop,Discmania,DDx (OOP),,,unmatched_app_mold
+discmania-enigma,Discmania,Enigma,9,99428076-30c1-5cae-accb-7e4af92fcb9c,candidate_exact_brand_mold
+discmania-essence,Discmania,Essence,19,33c19d0b-28c4-5afa-8e88-8f3f2606a3e1,candidate_exact_brand_mold
+discmania-fd,Discmania,FD,20,2e7d9960-ecc6-5167-a86a-42bab96eceb6,candidate_exact_brand_mold
+discmania-fd1,Discmania,FD1,110818,f4115bbb-bdc0-52f9-bcea-92b761b9e57a,candidate_exact_brand_mold
+discmania-fd2-oop,Discmania,FD2 (OOP),,,unmatched_app_mold
+discmania-fd3,Discmania,FD3,22,31ab9f88-0681-558b-9c0e-c11dd025381a,candidate_exact_brand_mold
+discmania-founder,Discmania,Founder,,,unmatched_app_mold
+discmania-function,Discmania,Function,174227,c99b7e0e-1e35-52d1-a84f-3d3441eef1e6,candidate_exact_brand_mold
+discmania-genius,Discmania,Genius,23,eb1e1d07-75f1-5db4-8c0e-aa187abc1fce,candidate_exact_brand_mold
+discmania-glacier,Discmania,Glacier,209173,1b03bc7b-af68-5a06-945d-1b60b6b90afe,candidate_exact_brand_mold
+discmania-instinct,Discmania,Instinct,24,25daa437-780e-5987-bb3a-513974f0afc2,candidate_exact_brand_mold
+discmania-link,Discmania,Link,35,b22586ca-b22a-50a2-8f89-88deefd380d3,candidate_exact_brand_mold
+discmania-logic,Discmania,Logic,22501,6d00b1ae-7433-57ef-bbec-1b6eed463f9d,candidate_exact_brand_mold
+discmania-maestro,Discmania,Maestro,27,e8a43875-e18d-5aac-bc2b-19963b77a2e3,candidate_exact_brand_mold
+discmania-magician,Discmania,Magician,25,8d2bd9be-8618-56b9-ab9b-a4c09a490998,candidate_exact_brand_mold
+discmania-majesty,Discmania,Majesty,22527,3297dd3c-cf4d-5637-9d42-d10eafa65b81,candidate_exact_brand_mold
+discmania-md,Discmania,MD,28,b2345d48-c1b3-5adf-b9bf-529c9f6a8bdc,candidate_exact_brand_mold
+discmania-md1,Discmania,MD1,29,e5ae2815-04cc-5b5d-be9f-914d0f4e9743,candidate_exact_brand_mold
+discmania-md2-oop,Discmania,MD2 (OOP),,,unmatched_app_mold
+discmania-md3,Discmania,MD3,31,edd673ba-4e9c-5d45-bc07-9b49a9dc427c,candidate_exact_brand_mold
+discmania-md3x,Discmania,MD3X,,,unmatched_app_mold
+discmania-md4,Discmania,MD4,32,925e94f3-f992-56a9-abb2-1d67274b8372,candidate_exact_brand_mold
+discmania-md5,Discmania,MD5,33,dde751eb-f4c9-5e11-bc8c-5a793ae0db74,candidate_exact_brand_mold
+discmania-mentor,Discmania,Mentor,10,29b0c8fb-e2e7-57ac-9478-1f128911737e,candidate_exact_brand_mold
+discmania-mermaid,Discmania,Mermaid,92500,b8a8b3e0-000a-5870-b450-914f1930fb51,candidate_exact_brand_mold
+discmania-method,Discmania,Method,34,df1a0a18-ac50-5c77-81e7-6bc5bf3f1ac5,candidate_exact_brand_mold
+discmania-mutant,Discmania,Mutant,22563,db3fae85-e0b2-5ff5-a8df-51b864fc6b7c,candidate_exact_brand_mold
+discmania-notion,Discmania,Notion,178168,3e3b3288-3b31-50ab-96ab-ed24e8c14074,candidate_exact_brand_mold
+discmania-origin,Discmania,Origin,1232,0e11f892-fe22-5b17-8bf8-e9da10e78f23,candidate_exact_brand_mold
+discmania-p1,Discmania,P1,36,2a4a38c4-c9ec-5ae8-8944-06c9ad49cd2d,candidate_exact_brand_mold
+discmania-p1x,Discmania,P1X,37,657de834-1bb0-5164-a04c-3e9b5976ec3a,candidate_exact_brand_mold
+discmania-p2,Discmania,P2,38,d3e63daf-dbb8-5ceb-a115-3826f6961412,candidate_exact_brand_mold
+discmania-p2x,Discmania,P2X,207575,ec1b8be1-d149-52b3-9b08-789258f881b8,candidate_exact_brand_mold
+discmania-p3-oop,Discmania,P3 (OOP),,,unmatched_app_mold
+discmania-p3x,Discmania,P3X,40,fd19f124-2848-51eb-ab7b-374f0524eec2,candidate_exact_brand_mold
+discmania-paradigm,Discmania,Paradigm,96962,cccdb7d8-d783-511d-8f7a-5b36cb01a99d,candidate_exact_brand_mold
+discmania-pd,Discmania,PD,11,6e8da2b1-a8c2-50bf-b61c-3695cb0dc66a,candidate_exact_brand_mold
+discmania-pd2,Discmania,PD2,12,5c015f60-43d5-5997-bcfe-42b0e575b009,candidate_exact_brand_mold
+discmania-pd3-oop,Discmania,PD3 (OOP),,,unmatched_app_mold
+discmania-pdx-oop,Discmania,PDx (OOP),,,unmatched_app_mold
+discmania-premier-fd,Discmania,Premier FD,,,unmatched_app_mold
+discmania-rainmaker,Discmania,Rainmaker,23465,c11e6bc4-4f01-5bf2-b6f7-ec60be117081,candidate_exact_brand_mold
+discmania-rockstar,Discmania,Rockstar,22683,2d4cec7b-0a0d-5f24-94b0-1d1e34e1eb60,candidate_exact_brand_mold
+discmania-sensei,Discmania,Sensei,41,3610ffef-9aa0-521f-a1e6-f9207cb1b6f2,candidate_exact_brand_mold
+discmania-shogun,Discmania,Shogun,22717,f9db1bc4-4e29-5100-b864-fbb9634d5f6b,candidate_exact_brand_mold
+discmania-splice,Discmania,Splice,22740,f217bc6a-172b-5343-8de3-1e00f26b1260,candidate_exact_brand_mold
+discmania-spore,Discmania,Spore,166495,81d6868a-2837-5662-b0d1-19208a2fad90,candidate_exact_brand_mold
+discmania-tactic,Discmania,Tactic,42,3e415359-5500-5440-845f-92cd29efdd16,candidate_exact_brand_mold
+discmania-tailor,Discmania,Tailor,93615,85caebd2-1c3f-54d9-b0be-505855a24e7a,candidate_exact_brand_mold
+discmania-td,Discmania,TD,15,ff9c1e87-da9e-5c92-9f02-e80d34327c48,candidate_exact_brand_mold
+discmania-tdx-oop,Discmania,TDx (OOP),,,unmatched_app_mold
+discmania-tilt,Discmania,<- Tilt,16106,cc762b77-1a3e-505d-bd7a-c8e4d2822c3d,candidate_exact_brand_mold
+discmania-vanguard,Discmania,Vanguard,139593,9d828437-9dd7-5b12-9c6b-c321d5459024,candidate_exact_brand_mold
+discraft-anax,Discraft,Anax,64,8dac57b2-5593-513b-970c-b02ba5c38a43,candidate_exact_brand_mold
+discraft-apx,Discraft,APX,100,2099e50b-8bbb-58d6-9717-7aad1f3145c3,candidate_exact_brand_mold
+discraft-archer,Discraft,Archer,83,43be72a7-fec3-507a-bd28-49b886132f79,candidate_exact_brand_mold
+discraft-ares,Discraft,Ares,,,unmatched_app_mold
+discraft-athena,Discraft,Athena,80854,95dd7249-55ed-56ae-adc1-fa2e955e7a3e,candidate_exact_brand_mold
+discraft-avenger,Discraft,Avenger,43,e5748eb8-9a6d-5264-8a79-fe78b81f3da2,candidate_exact_brand_mold
+discraft-avenger-ss,Discraft,Avenger SS,44,1958b1e5-31ef-57cd-81f5-ae46cf2c0fda,candidate_exact_brand_mold
+discraft-banger-gt,Discraft,Banger GT,101,8731a6af-392d-567c-ad4a-84c336573a9c,candidate_exact_brand_mold
+discraft-buzzz,Discraft,Buzzz,84,3171ce92-8a43-57d5-821c-272416382621,candidate_exact_brand_mold
+discraft-buzzz-gt,Discraft,Buzzz GT,85,e144d2f6-c1e3-5168-aa87-f313be885234,candidate_exact_brand_mold
+discraft-buzzz-os,Discraft,Buzzz OS,86,d395b730-dfb8-525c-baf4-bd8768254947,candidate_exact_brand_mold
+discraft-buzzz-ss,Discraft,Buzzz SS,87,4584a3a4-d44f-5063-8e52-383a712e087e,candidate_exact_brand_mold
+discraft-captains-raptor,Discraft,Captain's Raptor,,,unmatched_app_mold
+discraft-captains-thrasher,Discraft,Captain's Thrasher,,,unmatched_app_mold
+discraft-challenger,Discraft,Challenger,102,3afbbc17-de7c-5b05-9196-bdef80a1c941,candidate_exact_brand_mold
+discraft-challenger-os,Discraft,Challenger OS,103,fc1b27f2-3149-52cb-948e-45a5d473f811,candidate_exact_brand_mold
+discraft-challenger-ss,Discraft,Challenger SS,104,52a1a76c-d3fb-5321-9c4d-4f7d73a7aae2,candidate_exact_brand_mold
+discraft-cicada,Discraft,Cicada,152886,17e2edd9-766c-528c-8953-900f8b54dbf0,candidate_exact_brand_mold
+discraft-cigarra,Discraft,Cigarra,209168,331348af-fd55-56a3-8665-7d96780b676a,candidate_exact_brand_mold
+discraft-comet,Discraft,Comet,88,f6a6748e-de70-5501-b690-bf4354eb5078,candidate_exact_brand_mold
+discraft-crank,Discraft,Crank,45,47366378-c028-5f57-831d-93aaf290cd0e,candidate_exact_brand_mold
+discraft-crank-ss,Discraft,Crank SS,46,bdcc2af6-f7eb-57c0-ae41-0064444b6f34,candidate_exact_brand_mold
+discraft-crush,Discraft,Crush,47,34b80cc1-085a-5580-9f7f-789fdfdb2234,candidate_exact_brand_mold
+discraft-cyclone,Discraft,Cyclone,65,10d8e1ab-aa05-549a-a537-583431124351,candidate_exact_brand_mold
+discraft-drive,Discraft,Drive,171610,9c003c2d-ce3a-5769-8d8c-9415b380e5a6,candidate_exact_brand_mold
+discraft-drone,Discraft,Drone,89,bb767930-4306-55ee-958e-2a8cbfe5e2da,candidate_exact_brand_mold
+discraft-fierce,Discraft,Fierce,105,de8c96cd-df0a-55a2-9eca-8cc5f9b54afb,candidate_exact_brand_mold
+discraft-flash,Discraft,Flash,48,b3b39253-0c86-5228-8bec-a087b3a5900b,candidate_exact_brand_mold
+discraft-flick,Discraft,Flick,49,a0e5ae35-2fad-5c9f-8346-85f805e52ef6,candidate_exact_brand_mold
+discraft-focus,Discraft,Focus,106,f1163ae8-28a7-5ec7-aa26-482e73368f23,candidate_exact_brand_mold
+discraft-force,Discraft,Force,50,de66d55c-1483-5fdb-ba9b-3d7116dfbea9,candidate_exact_brand_mold
+discraft-glide,Discraft,Glide,90,9d02131e-36de-5782-b9d5-83c1e2ce1dea,candidate_exact_brand_mold
+discraft-hades,Discraft,Hades,51,95e040a3-c500-55c4-b5b2-ef9d1b688e58,candidate_exact_brand_mold
+discraft-hallux,Discraft,Hallux,,,unmatched_app_mold
+discraft-hawk,Discraft,Hawk,91,f3161976-bf4f-5d40-ae56-db31b6f6fcac,candidate_exact_brand_mold
+discraft-heat,Discraft,Heat,67,ee7bc8fb-d9b0-52d2-b6a9-87808bbd4ec5,candidate_exact_brand_mold
+discraft-hornet,Discraft,Hornet,92,39723551-ae4e-5056-a63e-351d8fa4f8ec,candidate_exact_brand_mold
+discraft-impact,Discraft,Impact,93,49d63514-ede2-5734-bf4a-c3bb7ba47991,candidate_exact_brand_mold
+discraft-joy,Discraft,Joy,,,unmatched_app_mold
+discraft-kratos,Discraft,Kratos,166494,d40048af-b6dd-56e6-8374-3cf827ccc8e4,candidate_exact_brand_mold
+discraft-luna,Discraft,Luna,107,f88b69ae-a5f3-509a-aa08-916b3e1fb0ed,candidate_exact_brand_mold
+discraft-machete,Discraft,Machete,52,2a891b44-6a9f-5958-9566-8bac6de9ea7d,candidate_exact_brand_mold
+discraft-magnet,Discraft,Magnet,108,4f0ee2fe-31ae-530a-a568-dbfcf806d897,candidate_exact_brand_mold
+discraft-malita,Discraft,Malita,,,unmatched_app_mold
+discraft-malta,Discraft,Malta,94,e6ad4b36-f629-5445-ad84-ac44e2658eeb,candidate_exact_brand_mold
+discraft-mantis,Discraft,Mantis,68,11838a38-6c82-5732-8cff-f4b6976cb30f,candidate_exact_brand_mold
+discraft-meteor,Discraft,Meteor,95,dd0f0c3b-3613-5003-aa0a-51a9ad5fa705,candidate_exact_brand_mold
+discraft-nebula,Discraft,Nebula,96,2fc2fda7-7e82-53b0-a166-89a4acb014bf,candidate_exact_brand_mold
+discraft-nuke,Discraft,Nuke,53,b423a4a2-b066-5b77-bbf7-1c8505b35989,candidate_exact_brand_mold
+discraft-nuke-os,Discraft,Nuke OS,54,ec537c1e-4a3c-5110-8b02-6de97ee83420,candidate_exact_brand_mold
+discraft-nuke-ss,Discraft,Nuke SS,55,f4be4e42-e836-52d0-b820-6df13d6da0f3,candidate_exact_brand_mold
+discraft-passion,Discraft,Passion,23402,4068d4ed-2e57-5862-bfe2-2435b39693ae,candidate_exact_brand_mold
+discraft-predator,Discraft,Predator,69,ff98e793-b520-5207-a318-5f23835a91d4,candidate_exact_brand_mold
+discraft-pulse,Discraft,Pulse,56,21fba531-e0ba-53dc-8261-3cbd758aba08,candidate_exact_brand_mold
+discraft-punisher,Discraft,Punisher,57,8c9349bc-140d-5588-8ce2-df0aa9cada8a,candidate_exact_brand_mold
+discraft-puttr,Discraft,Putt'r,1297,c380cea6-3f5e-5f14-b5df-a2ef014ed3e3,candidate_exact_brand_mold
+discraft-raptor,Discraft,Raptor,70,083d1d7c-443b-5782-854a-a556d49dd21f,candidate_exact_brand_mold
+discraft-rattler,Discraft,Rattler,109,c2fb7258-83d4-5261-9c33-432598e61903,candidate_exact_brand_mold
+discraft-reaper,Discraft,Reaper,71,7d4ada02-77d5-5bc9-9c2f-017c5af96df2,candidate_exact_brand_mold
+discraft-roach,Discraft,Roach,112,12e33852-1fe9-53ad-9eba-f2c01a30df5a,candidate_exact_brand_mold
+discraft-roost,Discraft,Roost,,,unmatched_app_mold
+discraft-scorch,Discraft,Scorch,22703,e122483f-7084-557b-b1e6-4832cd1b0774,candidate_exact_brand_mold
+discraft-sol,Discraft,Sol,97,895b5cd6-9114-5bc2-b14e-968c65c71892,candidate_exact_brand_mold
+discraft-stalker,Discraft,Stalker,72,c9f7c572-07aa-5c52-8c50-65b3554cf3bd,candidate_exact_brand_mold
+discraft-sting,Discraft,Sting,73,0d682ebb-5fc4-5c61-a1c6-e0e38436f943,candidate_exact_brand_mold
+discraft-stratus,Discraft,Stratus,98,b69e85c5-4229-5657-8ad5-8d99d4504a4c,candidate_exact_brand_mold
+discraft-surge,Discraft,Surge,59,7f974290-1ca3-559e-a652-a7c10430840f,candidate_exact_brand_mold
+discraft-surge-ss,Discraft,Surge SS,60,712dad3a-3b80-5aa3-9061-0a2bc6536b49,candidate_exact_brand_mold
+discraft-swarm,Discraft,Swarm,171609,195a01b5-9b8a-54d7-874d-8cbe5f0d4d67,candidate_exact_brand_mold
+discraft-talon,Discraft,Talon,74,399f8577-d56c-528f-b924-7a53322ddc2b,candidate_exact_brand_mold
+discraft-thrasher,Discraft,Thrasher,61,6a8a7295-c792-5db3-89df-1e5b222d40ab,candidate_exact_brand_mold
+discraft-undertaker,Discraft,Undertaker,76,4b63fcba-a9f2-5e7b-b964-357cdff983ca,candidate_exact_brand_mold
+discraft-venom-old-version-oop,Discraft,Venom (Old Version - OOP),,,unmatched_app_mold
+discraft-venom-retooled,Discraft,Venom (Retooled),,,unmatched_app_mold
+discraft-vulture,Discraft,Vulture,77,c8b63f45-75e0-5e0e-8335-382f434cb1d3,candidate_exact_brand_mold
+discraft-wasp,Discraft,Wasp,99,8397bed3-0e80-5204-bdc3-8006260ccda3,candidate_exact_brand_mold
+discraft-wildcat,Discraft,Wildcat,62,d3951d0b-52f5-50d3-b3ef-4a55aa81a487,candidate_exact_brand_mold
+discraft-xl,Discraft,XL,78,36b3ad13-f00f-51ff-88ff-b02ee08695c2,candidate_exact_brand_mold
+discraft-xpress,Discraft,Xpress,79,b2448f12-fec5-5198-8fa3-9bf0c794e223,candidate_exact_brand_mold
+discraft-xs,Discraft,XS,80,ebb105b4-e7a8-54c4-a897-b12aadba6dcc,candidate_exact_brand_mold
+discraft-xtreme,Discraft,Xtreme,58978,67d2a8b5-2a99-52d4-8755-edcd37a8e1ee,candidate_exact_brand_mold
+discraft-zeppelin,Discraft,Zeppelin,22188,4e3d0c61-f84f-5126-a72e-61cce3ffbe3a,candidate_exact_brand_mold
+discraft-zeus,Discraft,Zeus,63,6ceb93b1-b268-5d25-a1fe-6ec944bfee22,candidate_exact_brand_mold
+discraft-zombee,Discraft,Zombee,82,8facc8b9-b1b8-5e6f-9f12-c1a2e8e5ab8b,candidate_exact_brand_mold
+discraft-zone,Discraft,Zone,114,b2a15ec4-436e-5e0b-bd76-e35d79fddc7a,candidate_exact_brand_mold
+disctroyer-dd-13-starling,Disctroyer,DD-13 Starling,,,unmatched_app_mold
+disctroyer-fd-8-stork,Disctroyer,FD-8 Stork,,,unmatched_app_mold
+disctroyer-mr-5-skylark,Disctroyer,MR-5 Skylark,,,unmatched_app_mold
+disctroyer-nightjar,Disctroyer,Nightjar,27938,3da69c52-2daa-5c8a-a300-7fee3142e977,candidate_exact_brand_mold
+disctroyer-pa-3-sparrow,Disctroyer,PA-3 Sparrow,,,unmatched_app_mold
+divergent-alpas,Divergent,Alpas,,,unmatched_app_mold
+divergent-wyrm,Divergent,Wyrm,,,unmatched_app_mold
+doomsday-discs-blackout,Doomsday Discs,Blackout,86036,3b6e4a91-eebb-5bfc-9d51-348c5700d814,candidate_exact_brand_mold
+doomsday-discs-bleak,Doomsday Discs,Bleak,86039,05011e61-eafc-5827-8add-37cb500f6744,candidate_exact_brand_mold
+doomsday-discs-cardiac-arrest,Doomsday Discs,Cardiac Arrest,,,unmatched_app_mold
+doomsday-discs-cataclysm,Doomsday Discs,Cataclysm,142201,cf2a4934-5e9a-5de7-a897-f6ff5fa08611,candidate_exact_brand_mold
+doomsday-discs-chemtrail,Doomsday Discs,Chemtrail,207753,650729db-0d38-54a6-9551-fc09db48c08b,candidate_exact_brand_mold
+doomsday-discs-cyber-putter,Doomsday Discs,Cyber Putter,207755,ff46619a-77dc-5be7-b1a7-9a64087cfe9f,candidate_exact_brand_mold
+doomsday-discs-depth-charge,Doomsday Discs,Depth Charge,142309,566208ee-2788-5c7c-8aa9-9b9f96a5e5ee,candidate_exact_brand_mold
+doomsday-discs-desolation,Doomsday Discs,Desolation,142311,44d50dd8-5adc-5f03-a8da-1e965fc2b372,candidate_exact_brand_mold
+doomsday-discs-despair,Doomsday Discs,Despair,86166,906eb130-043f-593b-a1bc-56b9b9a1a73a,candidate_exact_brand_mold
+doomsday-discs-dread,Doomsday Discs,Dread,,,unmatched_app_mold
+doomsday-discs-dystopia,Doomsday Discs,Dystopia,86185,a693b595-4f62-58ca-9a58-0924863c41c7,candidate_exact_brand_mold
+doomsday-discs-famine,Doomsday Discs,Famine,161454,1f9a4620-3f02-55dd-8641-19da2abb620f,candidate_exact_brand_mold
+doomsday-discs-flat-earth,Doomsday Discs,Flat Earth,142395,236277ec-b234-570f-9536-e0b97220f2e1,candidate_exact_brand_mold
+doomsday-discs-ice-age,Doomsday Discs,Ice Age,183992,c6bf7279-728a-584f-91e1-2076aa0ef743,candidate_exact_brand_mold
+doomsday-discs-land-mine,Doomsday Discs,Land Mine,86397,3bc93f43-7c98-54fb-929e-1c687ac38fb2,candidate_exact_brand_mold
+doomsday-discs-monstrosity,Doomsday Discs,Monstrosity,237691,f997d297-3083-5c09-8ee7-6798effe762a,candidate_exact_brand_mold
+doomsday-discs-oblivion,Doomsday Discs,Oblivion,,,unmatched_app_mold
+doomsday-discs-pestilence,Doomsday Discs,Pestilence,142807,a5e6a998-87c8-50ea-87c2-00c16306a72b,candidate_exact_brand_mold
+doomsday-discs-plague,Doomsday Discs,Plague,86600,8dc6a7b6-137c-56c4-b315-72201394ddf5,candidate_exact_brand_mold
+doomsday-discs-psyop,Doomsday Discs,Psyop,209174,555f8328-8421-5f81-8955-ccb2c393503e,candidate_exact_brand_mold
+doomsday-discs-rot,Doomsday Discs,Rot,161449,16e3cb6e-824d-5835-b0fc-52a7decea7f0,candidate_exact_brand_mold
+doomsday-discs-scavenger,Doomsday Discs,Scavenger,161453,3936e540-e14e-5cc8-b83e-b67b77070d0c,candidate_exact_brand_mold
+doomsday-discs-solar-death-ray,Doomsday Discs,Solar Death Ray,184573,a45339f9-5362-5ea0-a52b-68a13cd6d600,candidate_exact_brand_mold
+dynamic-discs-agent,Dynamic Discs,Agent,27435,b8ce1b67-eac0-5bfa-b9e2-6f2c0558ee38,candidate_exact_brand_mold
+dynamic-discs-bounty,Dynamic Discs,Bounty,5776,86435d7a-9e10-5d1f-ae0f-14a847b60a1a,candidate_exact_brand_mold
+dynamic-discs-breakout,Dynamic Discs,Breakout,125,2c807643-754e-5e0f-a183-66aafb3b9214,candidate_exact_brand_mold
+dynamic-discs-captain,Dynamic Discs,Captain,115,4f36fbcf-d883-5f1c-b4b9-d68611ecfa2b,candidate_exact_brand_mold
+dynamic-discs-contender,Dynamic Discs,Contender,,,unmatched_app_mold
+dynamic-discs-convict,Dynamic Discs,Convict,126,00ffc142-1722-5888-bb0e-44ccf5681af7,candidate_exact_brand_mold
+dynamic-discs-criminal,Dynamic Discs,Criminal,116,09756d93-47ba-5de7-96ea-9f203b7f6d6b,candidate_exact_brand_mold
+dynamic-discs-defender,Dynamic Discs,Defender,117,76b4f933-6149-53be-8e5d-737f38f2cee9,candidate_exact_brand_mold
+dynamic-discs-deputy,Dynamic Discs,Deputy,144,b2344afd-c941-5e7f-8b41-8321dd0ea147,candidate_exact_brand_mold
+dynamic-discs-emac-judge,Dynamic Discs,EMAC Judge,16101,85488d4a-46bb-5e9f-8c52-9b7b212ac3b0,candidate_exact_brand_mold
+dynamic-discs-enforcer,Dynamic Discs,Enforcer,118,e57ca1b7-bbbc-518f-b4aa-5620fe962cf3,candidate_exact_brand_mold
+dynamic-discs-escape,Dynamic Discs,Escape,127,3b3ab723-2526-5e5e-ab0b-1c88134f399a,candidate_exact_brand_mold
+dynamic-discs-evader,Dynamic Discs,Evader,16102,95078f5c-6b0a-5187-8d7a-a610cae7a637,candidate_exact_brand_mold
+dynamic-discs-evidence,Dynamic Discs,Evidence,135,39d5c939-7474-546d-a447-7f0c2ba65954,candidate_exact_brand_mold
+dynamic-discs-felon,Dynamic Discs,Felon,128,b1c93d82-6213-5f45-90fe-9bdccecbc89f,candidate_exact_brand_mold
+dynamic-discs-fugitive,Dynamic Discs,Fugitive,136,f138946a-eb51-5900-af23-d529f50ddac7,candidate_exact_brand_mold
+dynamic-discs-fugitive-supreme,Dynamic Discs,Fugitive (Supreme),,,unmatched_app_mold
+dynamic-discs-general,Dynamic Discs,General,172906,a1e4f478-63ec-56c8-ab58-03c62e6403cb,candidate_exact_brand_mold
+dynamic-discs-getaway,Dynamic Discs,Getaway,129,5256eb67-a97d-5fce-9701-2ad2daf985e4,candidate_exact_brand_mold
+dynamic-discs-guard,Dynamic Discs,Guard,146,0a2c97a4-ebe0-52dd-9705-1229c2bf9912,candidate_exact_brand_mold
+dynamic-discs-heist,Dynamic Discs,Heist,,,unmatched_app_mold
+dynamic-discs-intent,Dynamic Discs,Intent,,,unmatched_app_mold
+dynamic-discs-judge,Dynamic Discs,Judge,147,7da50844-bdbc-5e66-b832-db3de869661a,candidate_exact_brand_mold
+dynamic-discs-jury,Dynamic Discs,Jury,174223,240e7a66-467e-58b8-9386-f12b9acad488,candidate_exact_brand_mold
+dynamic-discs-justice,Dynamic Discs,Justice,137,874428aa-d8cd-52b9-874f-60c5f77b29d8,candidate_exact_brand_mold
+dynamic-discs-marshal,Dynamic Discs,Marshal,148,ab795c11-736f-5e36-9a82-2c03661cbf64,candidate_exact_brand_mold
+dynamic-discs-maverick,Dynamic Discs,Maverick,130,e19fc46f-a7bd-58ce-bb98-c14a8ffc3c14,candidate_exact_brand_mold
+dynamic-discs-motive,Dynamic Discs,Motive,,,unmatched_app_mold
+dynamic-discs-patrol,Dynamic Discs,Patrol,138,cd3a0caa-f60a-5fca-ae67-9cbb3b01d95d,candidate_exact_brand_mold
+dynamic-discs-raider,Dynamic Discs,Raider,120,424cbc6f-a0de-582d-b201-da16b6f5af38,candidate_exact_brand_mold
+dynamic-discs-renegade,Dynamic Discs,Renegade,121,c7e49d14-1b95-5fb9-ad14-c3852ab76408,candidate_exact_brand_mold
+dynamic-discs-sergeant,Dynamic Discs,Sergeant,122,c4ad509f-da95-5672-bbe2-b8f4f76a6438,candidate_exact_brand_mold
+dynamic-discs-sheriff,Dynamic Discs,Sheriff,123,92d5ebc3-e68d-570d-98f3-8c4f95da192d,candidate_exact_brand_mold
+dynamic-discs-slammer,Dynamic Discs,Slammer,149,d1bbb8ce-55f7-5068-9831-fcfa39c9d65e,candidate_exact_brand_mold
+dynamic-discs-sockibomb-felon,Dynamic Discs,Sockibomb Felon,207809,aab307eb-02ff-55b8-bcb7-e07ca8507a41,candidate_exact_brand_mold
+dynamic-discs-supreme-emac-truth,Dynamic Discs,Supreme EMac Truth,207811,517b822b-8aa9-530d-aae7-05cfe28e184b,candidate_exact_brand_mold
+dynamic-discs-supreme-trespass,Dynamic Discs,Supreme Trespass,104819,ad2a2789-fa32-52a6-b49c-eb8e8880ceeb,candidate_exact_brand_mold
+dynamic-discs-thief,Dynamic Discs,Thief,131,e3eaae9a-78f4-563a-b812-f549bc447f17,candidate_exact_brand_mold
+dynamic-discs-treason,Dynamic Discs,Treason,231943,da0e679f-de37-5090-83ca-6a6f745e2163,candidate_exact_brand_mold
+dynamic-discs-trespass,Dynamic Discs,Trespass,124,2a925b07-90c3-5405-992a-ced85575ec5c,candidate_exact_brand_mold
+dynamic-discs-truth,Dynamic Discs,Truth,141,fab99789-aca0-5662-a9e0-1af4fc06598b,candidate_exact_brand_mold
+dynamic-discs-truth-emac,Dynamic Discs,"Truth, EMAC",,,unmatched_app_mold
+dynamic-discs-vandal,Dynamic Discs,Vandal,132,16d708f6-8256-5300-bec0-42ad5ab2a60b,candidate_exact_brand_mold
+dynamic-discs-verdict,Dynamic Discs,Verdict,142,8f5b79ce-8d46-5dcd-b974-c1c38e3a4cbd,candidate_exact_brand_mold
+dynamic-discs-warant,Dynamic Discs,Warant,,,unmatched_app_mold
+dynamic-discs-warden,Dynamic Discs,Warden,150,5aabc51b-8ce9-5f1c-bedf-9a4b91580214,candidate_exact_brand_mold
+dynamic-discs-witness,Dynamic Discs,Witness,133,f0ae7957-0612-5e0d-b8ff-cf534e031198,candidate_exact_brand_mold
+elevation-disc-golf-arowana,Elevation Disc Golf,Arowana,183493,12a1967c-b2c4-51eb-98de-8869fa69f9bf,candidate_exact_brand_mold
+elevation-disc-golf-binx-ecoflex,Elevation Disc Golf,"Binx, ecoFlex",,,unmatched_app_mold
+elevation-disc-golf-binx-newcomer,Elevation Disc Golf,"Binx, Newcomer",,,unmatched_app_mold
+elevation-disc-golf-capybara,Elevation Disc Golf,Capybara,,,unmatched_app_mold
+elevation-disc-golf-gecko,Elevation Disc Golf,Gecko,183883,090000bd-c667-501d-8c76-595b36176d9e,candidate_exact_brand_mold
+elevation-disc-golf-interceptor,Elevation Disc Golf,Interceptor,21475,180cf102-a5d3-5282-82fc-1576b20cd17c,candidate_exact_brand_mold
+elevation-disc-golf-koi,Elevation Disc Golf,Koi,22063,a691bc2f-3238-5794-8981-3979b180f744,candidate_exact_brand_mold
+elevation-disc-golf-nimbus,Elevation Disc Golf,Nimbus,184228,6d3325b2-4fba-5aea-bc94-494973a24918,candidate_exact_brand_mold
+elevation-disc-golf-og-binx,Elevation Disc Golf,OG Binx,,,unmatched_app_mold
+elevation-disc-golf-psychic,Elevation Disc Golf,Psychic,184390,c183c4d6-c3c6-5bc4-89b8-08b9428c0a96,candidate_exact_brand_mold
+elevation-disc-golf-uktena,Elevation Disc Golf,Uktena,,,unmatched_app_mold
+ev-7-agera,EV-7,Agera,,,unmatched_app_mold
+ev-7-ethos,EV-7,Ethos,,,unmatched_app_mold
+ev-7-kairos,EV-7,Kairos,,,unmatched_app_mold
+ev-7-mobius,EV-7,Mobius,33492,5f9ac255-09da-5e1e-a8b9-23500a86bc8f,candidate_exact_brand_mold
+ev-7-penrose,EV-7,Penrose,22615,ddeeb945-951b-5183-a2e5-8ec1efc2ac0d,candidate_exact_brand_mold
+ev-7-phi,EV-7,Phi,22619,1582ae75-af96-5b23-82b8-5fa79bec2ca2,candidate_exact_brand_mold
+ev-7-protos,EV-7,Protos,,,unmatched_app_mold
+ev-7-telos,EV-7,Telos,50156,a28b4dcc-fc38-5610-adbc-854d02d41978,candidate_exact_brand_mold
+ev-7-yang,EV-7,Yang,198246,eca4f2e0-4a1a-5b78-a7df-6abc0173c355,candidate_exact_brand_mold
+ev-7-yin,EV-7,Yin,198247,f1b9ee9b-ecd0-5981-9859-c5b6637fa744,candidate_exact_brand_mold
+finish-line-daytona,Finish Line,Daytona,,,unmatched_app_mold
+finish-line-era,Finish Line,Era,,,unmatched_app_mold
+finish-line-interval,Finish Line,Interval,,,unmatched_app_mold
+finish-line-pace,Finish Line,Pace,,,unmatched_app_mold
+finish-line-rally,Finish Line,Rally,,,unmatched_app_mold
+finish-line-sector,Finish Line,Sector,,,unmatched_app_mold
+finish-line-supra,Finish Line,Supra,,,unmatched_app_mold
+finish-line-torque,Finish Line,Torque,,,unmatched_app_mold
+gateway-air-strike,Gateway,Air Strike,207348,3643cb77-c81e-5dc0-9d0a-9bf0f29b23de,candidate_exact_brand_mold
+gateway-amphibian,Gateway,Amphibian,183464,32096048-5340-50d0-8408-9954a24506ce,candidate_exact_brand_mold
+gateway-apache-oop,Gateway,Apache (OOP),,,unmatched_app_mold
+gateway-apache-retooled,Gateway,Apache (retooled),,,unmatched_app_mold
+gateway-apex,Gateway,Apex,152,5873fb0e-1e50-5b92-8dc4-d8939f7b4418,candidate_exact_brand_mold
+gateway-assassin,Gateway,Assassin,164,6e688e1c-9aff-5903-a6e8-c596b0968efa,candidate_exact_brand_mold
+gateway-aura,Gateway,Aura,172907,95a337d8-45b1-51ed-bc2d-cb996e985a57,candidate_exact_brand_mold
+gateway-black-zombie-chainsaw,Gateway,Black Zombie Chainsaw,,,unmatched_app_mold
+gateway-blade,Gateway,Blade,165,c93d5e77-8ca1-583e-a440-9d9d454e0521,candidate_exact_brand_mold
+gateway-blaze,Gateway,Blaze,166,c5fd6bd2-9eb0-5e59-bd98-dbad2c5f32e2,candidate_exact_brand_mold
+gateway-chief,Gateway,Chief,178,799c4e68-f60e-514e-b12f-56a48adbb54a,candidate_exact_brand_mold
+gateway-chief-os,Gateway,Chief OS,179,b7580163-53d0-5055-bf86-40add25bdca6,candidate_exact_brand_mold
+gateway-demon,Gateway,Demon,171,e989b8c2-f208-50b9-8d10-b48a5012b93c,candidate_exact_brand_mold
+gateway-devil-hawk,Gateway,Devil Hawk,180,9b536ed2-4137-50dd-a663-12ddbfaae516,candidate_exact_brand_mold
+gateway-diablo,Gateway,Diablo,153,25164167-df6c-572a-b52b-a2b61b701b10,candidate_exact_brand_mold
+gateway-element,Gateway,Element,172,39176563-fe6e-51fd-b5b8-200e83272590,candidate_exact_brand_mold
+gateway-ether,Gateway,Ether,161440,4690792d-cc4f-566c-8562-79ca5f51afde,candidate_exact_brand_mold
+gateway-g-one,Gateway,G-One,183871,cc31adcf-f845-5ec2-8ad1-5194689632a2,candidate_exact_brand_mold
+gateway-houdini,Gateway,Houdini,183434,b6330285-eb8b-5285-b207-eb2a606d2345,candidate_exact_brand_mold
+gateway-hybrid,Gateway,Hybrid,167,ffadccba-98a3-58af-bc04-efa40fa92533,candidate_exact_brand_mold
+gateway-illusion,Gateway,Illusion,154,9206554b-2a06-5e7b-8ebe-a01380dd255d,candidate_exact_brand_mold
+gateway-journey,Gateway,Journey,155,ba59f700-f648-59d9-8ba4-4085892cf77d,candidate_exact_brand_mold
+gateway-magic,Gateway,Magic,181,606ab735-4341-5039-8018-67e477d7c3a2,candidate_exact_brand_mold
+gateway-morningstar,Gateway,Morningstar,207351,01f8abd7-018c-596d-ba69-753d680993b6,candidate_exact_brand_mold
+gateway-mystic,Gateway,Mystic,174,57dd21b4-4c50-5b0d-98c2-077477d994fd,candidate_exact_brand_mold
+gateway-ninja,Gateway,Ninja,156,3e1a021b-75e7-5284-83f3-520923daa892,candidate_exact_brand_mold
+gateway-odyssey,Gateway,Odyssey,198242,9e89ec74-d477-5ae2-a7b7-dd7fe5a63864,candidate_exact_brand_mold
+gateway-prophecy,Gateway,Prophecy,175,b48cb080-0897-5e06-82c7-ad2b9a1261c9,candidate_exact_brand_mold
+gateway-realm,Gateway,Realm,158968,8936a23f-13b6-517c-9057-2f7fd49123ce,candidate_exact_brand_mold
+gateway-sabre,Gateway,Sabre,168,0673bc8c-7afc-5221-93c6-f9601f725915,candidate_exact_brand_mold
+gateway-samurai,Gateway,Samurai,158,d2d4b505-0b4c-5e6f-b1e4-6daf28b1b482,candidate_exact_brand_mold
+gateway-scale,Gateway,Scale,,,unmatched_app_mold
+gateway-serpent,Gateway,Serpent,,,unmatched_app_mold
+gateway-shaman,Gateway,Shaman,182,2ac01ad6-afc6-524f-a456-f7c2fe9816dd,candidate_exact_brand_mold
+gateway-slayer,Gateway,Slayer,160,4092f3a6-c02f-5719-936b-248a5b1d2b50,candidate_exact_brand_mold
+gateway-spear,Gateway,Spear,169,cc5adc33-30cf-5567-a1be-dc05643de601,candidate_exact_brand_mold
+gateway-speed-demon,Gateway,Speed Demon,161,9ec354a1-0738-5ac5-b423-e633ba479b51,candidate_exact_brand_mold
+gateway-spell,Gateway,Spell,142062,8edbd1ce-fe97-5d8a-9df5-39da8880b7be,candidate_exact_brand_mold
+gateway-spirit,Gateway,Spirit,162,fcfeb72c-a3d6-5988-acca-1b7495298653,candidate_exact_brand_mold
+gateway-voodoo,Gateway,Voodoo,184,92d2ca29-6131-5fea-b3a2-6e7312fed65d,candidate_exact_brand_mold
+gateway-wand,Gateway,Wand,,,unmatched_app_mold
+gateway-war-spear,Gateway,War Spear,186,14928f26-91dd-5d89-a497-1c06bd9a3ed9,candidate_exact_brand_mold
+gateway-warlock,Gateway,Warlock,185,f4e5efa3-1a90-568c-8c58-33054939e610,candidate_exact_brand_mold
+gateway-warrior-gateway,Gateway,Warrior (Gateway),,,unmatched_app_mold
+gateway-witch-doctor,Gateway,Witch Doctor,,,unmatched_app_mold
+gateway-wizard,Gateway,Wizard,187,34cd5697-dbe6-5394-ab33-5ae53ef97cc2,candidate_exact_brand_mold
+hooligan-discs-flip,Hooligan Discs,Flip,93616,634119bf-5c45-53a5-9b1b-3cbd16a64b77,candidate_exact_brand_mold
+hooligan-discs-thread,Hooligan Discs,Thread,68943,785541f6-f8cb-5057-89b4-0e9e97da1516,candidate_exact_brand_mold
+hooligan-discs-vibe,Hooligan Discs,Vibe,46629,edb9f752-dc88-5c7d-899f-8b20b04ece20,candidate_exact_brand_mold
+infinite-discs-alpaca,Infinite Discs,Alpaca,5711,907abb11-cc77-5824-a464-a1b108ae7282,candidate_exact_brand_mold
+infinite-discs-anubis,Infinite Discs,Anubis,197,cca07d51-7814-51e0-9927-99fda39530e7,candidate_exact_brand_mold
+infinite-discs-artifact,Infinite Discs,Artifact,,,unmatched_app_mold
+infinite-discs-aztec,Infinite Discs,Aztec,188,e3e33ed9-c47d-5e4f-9c72-768cb0cb3c05,candidate_exact_brand_mold
+infinite-discs-centurion,Infinite Discs,Centurion,193,c77a6d12-5b94-5b8a-bfbf-3caad9cc0fff,candidate_exact_brand_mold
+infinite-discs-chariot,Infinite Discs,Chariot,198,cc560c77-33ac-50e6-9a69-5c58adbd9f07,candidate_exact_brand_mold
+infinite-discs-cohort,Infinite Discs,Cohort,201,ac917c9a-e9f9-5115-8581-8191f862e586,candidate_exact_brand_mold
+infinite-discs-conqueror,Infinite Discs,Conqueror,208055,693a224a-0d16-5477-9c3a-c6af9c3cc1b4,candidate_exact_brand_mold
+infinite-discs-czar,Infinite Discs,Czar,86137,0c47b83a-bf9b-5f68-9ffe-b71df4d2670d,candidate_exact_brand_mold
+infinite-discs-dynasty,Infinite Discs,Dynasty,27637,3e13a07e-d5d3-5651-bfde-a0efa78e3541,candidate_exact_brand_mold
+infinite-discs-emperor,Infinite Discs,Emperor,189,64f956e7-a041-55b0-b459-605dca62b1f2,candidate_exact_brand_mold
+infinite-discs-exodus,Infinite Discs,Exodus,194,eb056eb5-7fb4-5c9b-bd15-0d52dc03a475,candidate_exact_brand_mold
+infinite-discs-galleon,Infinite Discs,Galleon,138862,97555a10-682d-52e1-acbf-47ce21d7d9d6,candidate_exact_brand_mold
+infinite-discs-glyph,Infinite Discs,Glyph,174225,e1de911e-a60a-5f33-b22f-f36990d2a704,candidate_exact_brand_mold
+infinite-discs-inca,Infinite Discs,Inca,199,2ba2e4db-4df0-5843-a6c6-ccd77d0fc3ac,candidate_exact_brand_mold
+infinite-discs-khonsu,Infinite Discs,Khonsu,167770,0fbb4a96-e343-5898-8383-e1557dd56275,candidate_exact_brand_mold
+infinite-discs-kon-tiki,Infinite Discs,Kon Tiki,21508,79bec4b3-fa4e-5b4c-a842-ed38cd782d98,candidate_exact_brand_mold
+infinite-discs-maya,Infinite Discs,Maya,190,e8649b82-025f-591e-af10-0835fa5452ff,candidate_exact_brand_mold
+infinite-discs-myth,Infinite Discs,Myth,202,23487260-de2b-5876-a427-9538b1be566c,candidate_exact_brand_mold
+infinite-discs-pharaoh,Infinite Discs,Pharaoh,191,abadf70d-f732-5d3a-a119-3525de8e53ce,candidate_exact_brand_mold
+infinite-discs-ra,Infinite Discs,RA,200,88470ffe-2674-5859-85e6-c9745a5a2159,candidate_exact_brand_mold
+infinite-discs-raze,Infinite Discs,Raze,124015,81dbbba1-492b-5e4e-8db6-82d3e3c224f9,candidate_exact_brand_mold
+infinite-discs-roman,Infinite Discs,Roman,117096,b60f62e0-9fdd-5f1e-bd6f-c759805c1515,candidate_exact_brand_mold
+infinite-discs-ruin,Infinite Discs,Ruin,203,4489fd25-26f8-5a4c-9410-6457bd7961b1,candidate_exact_brand_mold
+infinite-discs-scarab,Infinite Discs,Scarab,204,cbb914c9-0fdd-5b2e-8012-7ef33434aeb8,candidate_exact_brand_mold
+infinite-discs-scepter,Infinite Discs,Scepter,195,adac96d6-21cd-5caa-bf90-3b7634c6c6a8,candidate_exact_brand_mold
+infinite-discs-slab,Infinite Discs,Slab,192,30158b46-26f8-5a3b-9169-7cf8f641a7c6,candidate_exact_brand_mold
+infinite-discs-sphinx,Infinite Discs,Sphinx,196,f4475015-1cc3-536a-b876-5c673f6e21e5,candidate_exact_brand_mold
+infinite-discs-sultan,Infinite Discs,Sultan,209169,33581105-a533-50a0-9942-ea5317b3b843,candidate_exact_brand_mold
+infinite-discs-tomb,Infinite Discs,Tomb,205,3d6f353f-f976-5f7e-b215-6736d42a7af9,candidate_exact_brand_mold
+innova-aero,Innova,Aero,309,f47886df-ca64-5857-8d7b-dc9558796d3c,candidate_exact_brand_mold
+innova-alien,Innova,Alien,145668,c7badd97-0ae9-5118-b66b-f71e4113b88c,candidate_exact_brand_mold
+innova-ape,Innova,Ape,206,e042e41a-a414-5262-a548-d348665a9ca1,candidate_exact_brand_mold
+innova-arachnid,Innova,Arachnid,,,unmatched_app_mold
+innova-archangel,Innova,Archangel,236,8c00381b-832f-5304-8c63-5bcf4bf1bc78,candidate_exact_brand_mold
+innova-archon,Innova,Archon,207,518340ab-8728-5194-95f8-38cd97daa809,candidate_exact_brand_mold
+innova-atlas,Innova,Atlas,264,7b861371-9d5a-5f4b-8f18-ee85ecee0cec,candidate_exact_brand_mold
+innova-avatar,Innova,Avatar,265,2bc6c4e2-a37a-5bc3-8102-5e36f4c8ef04,candidate_exact_brand_mold
+innova-aviar-classic,Innova,Aviar Classic,,,unmatched_app_mold
+innova-aviar-driver,Innova,Aviar Driver,312,69d23b10-6f41-5192-857b-22e838d5f2e0,candidate_exact_brand_mold
+innova-aviar-p-a,Innova,Aviar P&A,,,unmatched_app_mold
+innova-aviar3,Innova,Aviar3,315,0098efd4-03e5-5cb8-a2b9-f68d10bb92e9,candidate_exact_brand_mold
+innova-aviarx3,Innova,AviarX3,316,8e04ee55-3681-5944-a084-1b0920e640bc,candidate_exact_brand_mold
+innova-banshee,Innova,Banshee,237,d87064bb-1822-5a22-ad3a-f06692d079cd,candidate_exact_brand_mold
+innova-beast,Innova,Beast,208,850bbf17-b3f3-57ae-9c87-27cc93f7bab3,candidate_exact_brand_mold
+innova-birdie,Innova,Birdie,317,5594ca78-c3df-56f6-adcc-307e63b14f44,candidate_exact_brand_mold
+innova-boss,Innova,Boss,209,184bfe20-0a15-53e8-afca-3747224f3407,candidate_exact_brand_mold
+innova-bullfrog,Innova,Bullfrog,318,71db4a57-5a77-57a4-a5ae-97e485a3882a,candidate_exact_brand_mold
+innova-caiman,Innova,Caiman,268,103687cb-3ea5-56d2-8ebe-6e82e7e86e33,candidate_exact_brand_mold
+innova-charger,Innova,Charger,87120,8481bbcd-4d6d-5086-8c9b-1040f4234c43,candidate_exact_brand_mold
+innova-cheetah,Innova,Cheetah,238,727ce058-bb7a-5783-93af-658d254b4d99,candidate_exact_brand_mold
+innova-classic-roc,Innova,Classic Roc,319,a220f94f-acdb-539d-ba1e-cf35ddde6d79,candidate_exact_brand_mold
+innova-cobra,Innova,Cobra,269,87249b02-71be-5827-bc8a-8be15ce3bbe6,candidate_exact_brand_mold
+innova-colossus,Innova,Colossus,210,02699907-5ec1-5905-9bd7-14588c284bfe,candidate_exact_brand_mold
+innova-colt,Innova,Colt,320,44d064ec-15d0-5a3f-afda-de2f1807790f,candidate_exact_brand_mold
+innova-condor,Innova,Condor,271,a80b5367-c898-52f8-bf2e-fb5e7c9afff6,candidate_exact_brand_mold
+innova-corvette,Innova,Corvette,211,5106f7ec-49b7-5246-b285-698da11334bb,candidate_exact_brand_mold
+innova-coyote,Innova,Coyote,272,b35c2c35-4a1d-58d9-8408-95c4582f8cea,candidate_exact_brand_mold
+innova-cro,Innova,Cro,273,1b16ac82-91db-57ed-b588-880cfaca6119,candidate_exact_brand_mold
+innova-croc,Innova,Croc,274,9cba2f3a-2e63-5115-9efc-a2d9d7fdf38c,candidate_exact_brand_mold
+innova-daedalus,Innova,Daedalus,212,6218dbd1-ceea-5e02-8c50-7eb4745a54c3,candidate_exact_brand_mold
+innova-dart,Innova,Dart,323,dd60169f-662d-56b4-be0a-4d452c80f80a,candidate_exact_brand_mold
+innova-destroyer,Innova,Destroyer,213,30a34c07-5add-5be9-b996-cad6b7005b2e,candidate_exact_brand_mold
+innova-dominator-oop,Innova,Dominator (OOP),,,unmatched_app_mold
+innova-dragon,Innova,Dragon,239,729a0089-f1ef-55b3-a295-cd57e2d579ae,candidate_exact_brand_mold
+innova-eagle,Innova,Eagle,240,67f6a5a7-628b-5ca5-a3e9-bb19309774a7,candidate_exact_brand_mold
+innova-fairway-disc,Innova,Fairway Disc,,,unmatched_app_mold
+innova-firebird,Innova,Firebird,241,014e7f59-fda1-5d99-9559-4e8c4ee1fd42,candidate_exact_brand_mold
+innova-firefly,Innova,Firefly,324,202edfad-299c-5a34-9b1d-87183df91e51,candidate_exact_brand_mold
+innova-firestorm,Innova,Firestorm,215,35c50e59-a579-5c82-8abb-2ad3f6cd3cc1,candidate_exact_brand_mold
+innova-fl,Innova,FL,242,098f3c34-b850-5236-abb4-059c1eb41c38,candidate_exact_brand_mold
+innova-fox,Innova,Fox,,,unmatched_app_mold
+innova-gator,Innova,Gator,276,be918d1d-f74c-587a-9143-173745bc5870,candidate_exact_brand_mold
+innova-gator3,Innova,Gator3,277,30f3d619-db03-5fc7-b616-64c0cd424a5b,candidate_exact_brand_mold
+innova-gazelle,Innova,Gazelle,244,8f7b31df-58e4-5780-bbcd-43f916d67dec,candidate_exact_brand_mold
+innova-gorgon,Innova,Gorgon,175540,054e3a50-bc7e-547f-b464-1a0d6368d5e9,candidate_exact_brand_mold
+innova-gorgon-gstar,Innova,Gorgon (GStar),175541,db128007-7d3a-57fc-9d8b-55c0da120901,candidate_exact_brand_mold
+innova-groove,Innova,Groove,216,b0d45726-1fad-5b0a-8a2b-f5b4487e9f9d,candidate_exact_brand_mold
+innova-hawkeye,Innova,Hawkeye,27760,44ca1f8f-2158-5893-aa27-4b50bba14b5a,candidate_exact_brand_mold
+innova-hydra,Innova,Hydra,327,0472aabb-743f-5a77-a8d6-c473b33c8ebe,candidate_exact_brand_mold
+innova-invader,Innova,Invader,328,c6de1706-1a63-54d0-9ca4-850c6d0a5288,candidate_exact_brand_mold
+innova-invictus,Innova,Invictus,217,64350b95-5dcf-5b12-909d-0735f23ca871,candidate_exact_brand_mold
+innova-it,Innova,IT,71945,00835a9e-cb4e-5b70-959e-8f47722d7360,candidate_exact_brand_mold
+innova-jay,Innova,Jay,78392,7d29d518-2006-573b-9d05-07abf48d69bc,candidate_exact_brand_mold
+innova-jk-pro-aviar-x,Innova,JK Pro Aviar-X,,,unmatched_app_mold
+innova-juggernaut,Innova,Juggernaut,110513,066f5f03-cd2d-5592-8574-8373cce3ba54,candidate_exact_brand_mold
+innova-katana,Innova,Katana,218,319928be-b8d8-5234-a148-2f863b06220f,candidate_exact_brand_mold
+innova-kc-pro-aviar,Innova,KC Pro Aviar,,,unmatched_app_mold
+innova-khan,Innova,Khan,137817,54ae626e-7394-57c1-a145-f32e5ce74ead,candidate_exact_brand_mold
+innova-krait,Innova,Krait,219,a4c9d1c3-f5a0-5abc-8e9a-642a14e2a098,candidate_exact_brand_mold
+innova-leopard,Innova,Leopard,245,716d4bad-f895-5b13-b25a-4847eece8fea,candidate_exact_brand_mold
+innova-leopard3,Innova,Leopard3,246,1106fa66-45f5-5920-b41e-7c023bcc86b2,candidate_exact_brand_mold
+innova-lion,Innova,Lion,282,e5cc5783-1bc4-5245-a3a4-9793461cfb2f,candidate_exact_brand_mold
+innova-lynx,Innova,Lynx,208161,0c764ee6-2010-5f87-a249-649bb8540aa7,candidate_exact_brand_mold
+innova-mako,Innova,Mako,285,9874917f-6d96-5c41-bac6-d6bc2a90b723,candidate_exact_brand_mold
+innova-mako3,Innova,Mako3,286,a47e7292-4f07-5649-8539-0d1a8e69ca43,candidate_exact_brand_mold
+innova-mamba,Innova,Mamba,220,ab5f387c-7387-53f7-98a6-f6208a7b789c,candidate_exact_brand_mold
+innova-manta,Innova,Manta,287,daf4340e-01f7-589f-a56a-07a081de6313,candidate_exact_brand_mold
+innova-max-oop,Innova,Max (OOP),,,unmatched_app_mold
+innova-mid-disc3,Innova,Mid-Disc3,27908,32a8c2fd-9da4-5f47-ace9-5372fd16f96b,candidate_exact_brand_mold
+innova-mirage,Innova,Mirage,330,17186d64-4f19-53f8-b796-81ffadf362d0,candidate_exact_brand_mold
+innova-monarch,Innova,Monarch,222,10b3fa50-fe7d-5dee-9d9e-39a0b1aa442e,candidate_exact_brand_mold
+innova-mystere,Innova,Mystere,224,8cfaeba1-28f0-542f-82da-42dfa935d51c,candidate_exact_brand_mold
+innova-nova,Innova,Nova,331,4dcae439-0c97-5599-a970-706ad5c29772,candidate_exact_brand_mold
+innova-orc,Innova,Orc,225,37f10e6c-e640-5cb6-9890-20f2affec5b6,candidate_exact_brand_mold
+innova-panther,Innova,Panther,288,88fa23e4-3f95-5dc1-8343-e2757cc05591,candidate_exact_brand_mold
+innova-pegasus,Innova,Pegasus,247,10136cd0-bc3d-50fd-8e0d-ef35926affc6,candidate_exact_brand_mold
+innova-polecat,Innova,Polecat,333,f2aab84e-ed07-599c-8b1d-c6483ffe8f26,candidate_exact_brand_mold
+innova-power-disc-phantom-sword,Innova,Power Disc (Phantom Sword),23434,8409ab2f-5d4d-559a-8868-205f670eea42,candidate_exact_brand_mold
+innova-power-disc2,Innova,Power Disc2,,,unmatched_app_mold
+innova-python,Innova,Python,248,ef202e16-fa9f-5289-9f3f-e790f0ae248c,candidate_exact_brand_mold
+innova-racer,Innova,Racer,174224,d37357c5-57b3-5719-b946-ec322c0195a5,candidate_exact_brand_mold
+innova-ram,Innova,Ram,249,f3b917f0-8a7c-5e73-85c8-08106ab462a8,candidate_exact_brand_mold
+innova-roadrunner,Innova,Roadrunner,251,05f7b00e-c579-545a-9d0b-35b6aff9e2c5,candidate_exact_brand_mold
+innova-roc,Innova,Roc,291|34614,,ambiguous_duplicate_brand_mold
+innova-roc-x3,Innova,Roc X3,294,402971ec-13d9-5d04-9395-a420730fb00d,candidate_exact_brand_mold
+innova-roc3,Innova,Roc3,293,848048cb-548e-519b-89ac-527e6e179902,candidate_exact_brand_mold
+innova-rollo,Innova,Rollo,121731,2750118b-17f8-5d63-b627-a27830df2d73,candidate_exact_brand_mold
+innova-savant,Innova,Savant,252,4b787168-a721-595d-a366-ddf696d5ea8b,candidate_exact_brand_mold
+innova-shark,Innova,Shark,296,3beeb786-9422-582e-8f8d-971a6b3196b1,candidate_exact_brand_mold
+innova-shark3,Innova,Shark3,297,895557c1-b93f-5188-aba8-53ec50ab209f,candidate_exact_brand_mold
+innova-shryke,Innova,Shryke,226,16198c66-f0c1-5782-b410-efa41e42a97e,candidate_exact_brand_mold
+innova-sidewinder,Innova,Sidewinder,253,709a6a94-de45-5a79-866e-c1b102a4269c,candidate_exact_brand_mold
+innova-skeeter,Innova,Skeeter,298,26d92e52-2b79-5536-a4fd-9964c8d592e3,candidate_exact_brand_mold
+innova-sonic,Innova,Sonic,335,713a760f-3f99-5d52-8594-af104e694aa4,candidate_exact_brand_mold
+innova-starfire,Innova,Starfire,228,606025ef-d840-56de-8435-509e93c3d387,candidate_exact_brand_mold
+innova-starfire-l,Innova,Starfire L,,,unmatched_app_mold
+innova-stingray,Innova,Stingray,300,04aafcb6-82eb-5cbb-a753-e17e59167129,candidate_exact_brand_mold
+innova-stud,Innova,Stud,336,53088da5-9d8d-5c03-92b6-169ce6ec6625,candidate_exact_brand_mold
+innova-teebird,Innova,Teebird,254|255,,ambiguous_duplicate_brand_mold
+innova-teebird3,Innova,Teebird3,256,9e50ee78-08fb-5816-b87b-2e935ff83e5c,candidate_exact_brand_mold
+innova-teedevil,Innova,Teedevil,229,d9da985f-e660-5a4f-80b7-4b75f793a1a5,candidate_exact_brand_mold
+innova-teerex,Innova,TeeRex,230,cdacb0dd-acc6-55a3-8342-295326f214c9,candidate_exact_brand_mold
+innova-tern,Innova,Tern,231,4fb250fc-04d1-5d92-a4ae-e5d628ec0ee4,candidate_exact_brand_mold
+innova-thunderbird,Innova,Thunderbird,257,590ec10f-315c-5ee6-95a5-7e0c60f3757b,candidate_exact_brand_mold
+innova-tl,Innova,TL,258,feea6345-bbc0-5f46-82eb-4c2adc3f4966,candidate_exact_brand_mold
+innova-tl3,Innova,TL3,259,014fdb99-8f41-540c-943f-3fae9bcd5a06,candidate_exact_brand_mold
+innova-valkyrie,Innova,Valkyrie,260,a8e80386-3772-521f-b96d-a376980286cf,candidate_exact_brand_mold
+innova-viking,Innova,Viking,261,7e206369-c0ae-5c90-a6de-6a14468729af,candidate_exact_brand_mold
+innova-viper,Innova,Viper,262,421c3d31-dd55-5de2-b20c-903afc622534,candidate_exact_brand_mold
+innova-vroc,Innova,VRoc,303,9ad58da9-fd24-5c35-b5d1-536461c1ddc2,candidate_exact_brand_mold
+innova-vulcan,Innova,Vulcan,232,61322473-cd4e-5099-99d3-91353d57cbbd,candidate_exact_brand_mold
+innova-wahoo,Innova,Wahoo,233,bced267f-d566-5a4f-81bc-680222df107d,candidate_exact_brand_mold
+innova-wedge,Innova,Wedge,304,8e749d98-1330-5df3-8163-64063d4aec17,candidate_exact_brand_mold
+innova-whale,Innova,Whale,339,b7236a9a-e412-5202-b669-155fa27971ef,candidate_exact_brand_mold
+innova-whippet,Innova,Whippet,263,dc6603c5-58cc-58f5-8bfc-2708299962fb,candidate_exact_brand_mold
+innova-wolf,Innova,Wolf,305,835faf18-91dd-5d6d-b211-bee282e5e1dd,candidate_exact_brand_mold
+innova-wombat3,Innova,Wombat3,307,1fe22448-6c23-5384-acf3-4ecf47a83223,candidate_exact_brand_mold
+innova-wraith,Innova,Wraith,234,a7a9c0d4-3284-57f4-a146-e587727c582a,candidate_exact_brand_mold
+innova-xcaliber,Innova,XCaliber,14912,531d9fc9-efa1-5964-8d04-492a4ea5f1a8,candidate_exact_brand_mold
+innova-xd,Innova,XD,340|341,,ambiguous_duplicate_brand_mold
+innova-xero,Innova,Xero,73950,24b52aa1-6f51-56d4-96d0-f075d72dbdf9,candidate_exact_brand_mold
+innova-yeti-pro-aviar,Innova,Yeti Pro Aviar,,,unmatched_app_mold
+jester-disc-golf-dream-weaver,Jester Disc Golf,Dream Weaver,165226,8be5c615-e786-5b19-a3e8-8ee0f4b6f5c5,candidate_exact_brand_mold
+jester-disc-golf-iris,Jester Disc Golf,Iris,,,unmatched_app_mold
+jester-disc-golf-love,Jester Disc Golf,Love,165228,349f0280-098e-5787-bece-66a1e769a53b,candidate_exact_brand_mold
+jester-disc-golf-peace-train,Jester Disc Golf,Peace Train,165227,5f2bdd60-e4b2-55fa-9e65-654a9243f061,candidate_exact_brand_mold
+kastaplast-alva,Kastaplast,Alva,174228,12c06b79-ba8f-53c0-b4a2-bd79b283bec4,candidate_exact_brand_mold
+kastaplast-berg,Kastaplast,Berg,616,0821c1c3-41ff-5f71-9ac0-a7613dbf62b4,candidate_exact_brand_mold
+kastaplast-berg-x,Kastaplast,Berg X,156526,49e6c7ed-e8f1-5f78-b826-67dd8d877836,candidate_exact_brand_mold
+kastaplast-falk,Kastaplast,Falk,610,8bfebe1b-3a65-53b3-9a9d-1d80fdb754ac,candidate_exact_brand_mold
+kastaplast-gadd,Kastaplast,Gadd,,,unmatched_app_mold
+kastaplast-gote,Kastaplast,Gote,613,21558bbd-c7a3-5bba-a34c-0274fe1aa268,candidate_exact_brand_mold
+kastaplast-grym-oop,Kastaplast,Grym (OOP),,,unmatched_app_mold
+kastaplast-grym-x-oop,Kastaplast,Grym X (OOP),,,unmatched_app_mold
+kastaplast-guld,Kastaplast,Guld,57018,966cbcb9-4248-5a5c-ba30-25232d0f38fb,candidate_exact_brand_mold
+kastaplast-idog,Kastaplast,Idog,183993,28bb4c50-af6a-56b9-a825-05c9af5bc406,candidate_exact_brand_mold
+kastaplast-impa,Kastaplast,Impa,,,unmatched_app_mold
+kastaplast-kaxe-old-oop,Kastaplast,Kaxe (Old - OOP),,,unmatched_app_mold
+kastaplast-kaxe-retooled,Kastaplast,Kaxe (Retooled),,,unmatched_app_mold
+kastaplast-kaxe-z-oop,Kastaplast,Kaxe Z (OOP),,,unmatched_app_mold
+kastaplast-krut,Kastaplast,Krut,126052,e185dab7-d80b-5f89-8d28-54a5fc4aec48,candidate_exact_brand_mold
+kastaplast-lots,Kastaplast,Lots,611,6f96216e-1c62-51e2-84d7-55e5cc8415f6,candidate_exact_brand_mold
+kastaplast-malm,Kastaplast,Malm,208269,73fa0698-6a8f-5216-9cb8-9b874a775f32,candidate_exact_brand_mold
+kastaplast-nord,Kastaplast,Nord,169046,ef15a480-54e4-5691-b082-9548a68524a9,candidate_exact_brand_mold
+kastaplast-rask,Kastaplast,Rask,609,9bfb7846-431b-5332-8c79-ae4a43d614f0,candidate_exact_brand_mold
+kastaplast-reko,Kastaplast,Reko,617,a52a2df2-ef47-5d84-8268-d8c574eed0e8,candidate_exact_brand_mold
+kastaplast-reko-x,Kastaplast,Reko X,33646,fb949f0d-74a1-5cc7-8d8a-efebe8c331fe,candidate_exact_brand_mold
+kastaplast-stal,Kastaplast,Stal,612,024c0f25-6977-5c97-9b85-134b9ce2b075,candidate_exact_brand_mold
+kastaplast-sten,Kastaplast,Sten,,,unmatched_app_mold
+kastaplast-stig,Kastaplast,Stig,114899,a9f37752-f4fd-52d8-b955-298ccc7f617f,candidate_exact_brand_mold
+kastaplast-svea,Kastaplast,Svea,1440,5ab056f5-935e-5a0b-b665-8692901afd80,candidate_exact_brand_mold
+kastaplast-tuff,Kastaplast,Tuff,220533,8b17860f-9cc8-508a-99e5-f4bda0386eeb,candidate_exact_brand_mold
+kastaplast-vass,Kastaplast,Vass,150463,7e6f250f-d609-583c-b319-fbbed61d3cf4,candidate_exact_brand_mold
+l-ft-discs-bohrium,Løft Discs,Bohrium,,,unmatched_app_mold
+l-ft-discs-hydrogen,Løft Discs,Hydrogen,,,unmatched_app_mold
+l-ft-discs-silicon,Løft Discs,Silicon,,,unmatched_app_mold
+l-ft-discs-titanium,Løft Discs,Titanium,,,unmatched_app_mold
+l-ft-discs-xenon,Løft Discs,Xenon,,,unmatched_app_mold
+latitude-64-amber,Latitude 64,Amber,,,unmatched_app_mold
+latitude-64-anchor,Latitude 64,Anchor,382,3c099bea-0ce8-5b8b-9d5e-ddc6e2010970,candidate_exact_brand_mold
+latitude-64-ballista,Latitude 64,Ballista,343,4e2ff041-ff99-5301-ba2a-2f9d70c58cc1,candidate_exact_brand_mold
+latitude-64-ballista-pro,Latitude 64,Ballista Pro,344,ef8902ea-e873-55e9-adcf-d1d2313ae894,candidate_exact_brand_mold
+latitude-64-beetle,Latitude 64,Beetle,394,cdc0e7a0-41d2-5456-a0d1-a39094529009,candidate_exact_brand_mold
+latitude-64-bolt,Latitude 64,Bolt,346,98209940-884a-5d83-a04f-824b820b2f76,candidate_exact_brand_mold
+latitude-64-brave,Latitude 64,Brave,166499,3c1f0a25-5c1c-54bf-b885-70370366c957,candidate_exact_brand_mold
+latitude-64-claymore,Latitude 64,Claymore,383,7d5f8390-29c5-5947-8500-b9d194b83a16,candidate_exact_brand_mold
+latitude-64-compass,Latitude 64,Compass,384,e3b01552-f21e-5b4a-96c5-3530c749c48f,candidate_exact_brand_mold
+latitude-64-core,Latitude 64,Core,385,9bf875c1-44c4-5cec-85b5-d9787dd4c8c6,candidate_exact_brand_mold
+latitude-64-culverin,Latitude 64,Culverin,363,327f4c08-0db4-52c2-8949-8d76c6e4e0db,candidate_exact_brand_mold
+latitude-64-cutlass,Latitude 64,Cutlass,347,6cd88913-41a6-50fc-89c0-d102ad8877b1,candidate_exact_brand_mold
+latitude-64-dagger,Latitude 64,Dagger,396,327d101f-5472-5889-8ebb-5da7efefdc67,candidate_exact_brand_mold
+latitude-64-diamond,Latitude 64,Diamond,364,1dae255a-90f0-5d14-b8ca-de4a789e276d,candidate_exact_brand_mold
+latitude-64-explorer,Latitude 64,Explorer,365,4e6edf05-b3cb-5e56-9a72-6510ac3fa682,candidate_exact_brand_mold
+latitude-64-faith,Latitude 64,Faith,21367,b29478eb-0532-5af0-b4ec-d27ad0690f1c,candidate_exact_brand_mold
+latitude-64-fire,Latitude 64,Fire,,,unmatched_app_mold
+latitude-64-flow,Latitude 64,Flow,348,3f185a14-623a-586d-8a3c-b79470b212ad,candidate_exact_brand_mold
+latitude-64-fury,Latitude 64,Fury,367,5666306b-0047-5ad7-9eaf-c1b7c0bb3787,candidate_exact_brand_mold
+latitude-64-fuse,Latitude 64,Fuse,387,1057f0e8-e4c8-529d-bd55-203cfdfc2a85,candidate_exact_brand_mold
+latitude-64-gladiator,Latitude 64,Gladiator,349,b9c51078-a6ed-5872-bd40-b236e7bbc6c5,candidate_exact_brand_mold
+latitude-64-glory,Latitude 64,Glory,23149,5e1c6581-832b-55ea-9a89-8035605a104d,candidate_exact_brand_mold
+latitude-64-grace,Latitude 64,Grace,21421,8942784f-6b70-5a9d-bfd0-d90857edcb3a,candidate_exact_brand_mold
+latitude-64-halo,Latitude 64,Halo,350,91e8711d-4c2e-5e1e-ad42-ab0398f33d2c,candidate_exact_brand_mold
+latitude-64-havoc,Latitude 64,Havoc,351,c6c2f8f7-0b1e-528d-9981-b1dbfdde6405,candidate_exact_brand_mold
+latitude-64-honor,Latitude 64,Honor,116686,d48227cd-9215-5354-b03f-797bb10d2edd,candidate_exact_brand_mold
+latitude-64-hope,Latitude 64,Hope,23190,869574a2-01b5-5558-a88f-6e5f1a1a29c6,candidate_exact_brand_mold
+latitude-64-jade,Latitude 64,Jade,368,856980b7-12a7-5a31-9448-97303a2ad2ca,candidate_exact_brand_mold
+latitude-64-keystone,Latitude 64,Keystone,398,d4ea52d1-1ad9-57a4-853a-521775699e5c,candidate_exact_brand_mold
+latitude-64-knight,Latitude 64,Knight,352,6761a621-fa4f-5593-906d-250188cda196,candidate_exact_brand_mold
+latitude-64-mace,Latitude 64,Mace,389,42757773-8e69-5cd8-9e60-22fc033d8af9,candidate_exact_brand_mold
+latitude-64-maul,Latitude 64,Maul,369,b95cd781-8709-5b19-b7c2-30b3e43641d7,candidate_exact_brand_mold
+latitude-64-mercy,Latitude 64,Mercy,400,e7dcf7ef-eb2a-5def-8440-89830b264556,candidate_exact_brand_mold
+latitude-64-mighty,Latitude 64,Mighty,,,unmatched_app_mold
+latitude-64-missilen-oop,Latitude 64,Missilen (OOP),,,unmatched_app_mold
+latitude-64-musket,Latitude 64,Musket,354,87f07f11-5f79-526c-90e7-b31ca9f77681,candidate_exact_brand_mold
+latitude-64-peak,Latitude 64,Peak,208337,5838fc3c-4e2d-5216-812d-96364da6e6d8,candidate_exact_brand_mold
+latitude-64-pearl,Latitude 64,Pearl,392,afcadb2b-5032-5aaa-bdc2-1d0aec0a2f0c,candidate_exact_brand_mold
+latitude-64-pioneer,Latitude 64,Pioneer,370,98fc1942-7239-5310-820d-a56ada0558ba,candidate_exact_brand_mold
+latitude-64-pirate,Latitude 64,Pirate,,,unmatched_app_mold
+latitude-64-pure,Latitude 64,Pure,401,202754b6-b04c-502a-a9d3-a86cc64581fa,candidate_exact_brand_mold
+latitude-64-raketen-oop,Latitude 64,Raketen (OOP),,,unmatched_app_mold
+latitude-64-rive,Latitude 64,Rive,21739,4b88866e-4f14-51e3-9898-54763dc32048,candidate_exact_brand_mold
+latitude-64-river,Latitude 64,River,372,6b12c3f5-210b-590d-99e1-b3475f980ccb,candidate_exact_brand_mold
+latitude-64-river-pro-oop,Latitude 64,River Pro (OOP),,,unmatched_app_mold
+latitude-64-ruby,Latitude 64,Ruby,402,4a968db0-e724-5229-bca3-018767d94c11,candidate_exact_brand_mold
+latitude-64-saint,Latitude 64,Saint,374,a46f8f2a-e21c-5482-aead-340cc5e6c1cf,candidate_exact_brand_mold
+latitude-64-saint-pro,Latitude 64,Saint Pro,375,b9b60788-df5e-5ffd-a84d-4d7e0bd5008d,candidate_exact_brand_mold
+latitude-64-sapphire,Latitude 64,Sapphire,358,84048cb1-52cd-58d0-898f-8360420637c3,candidate_exact_brand_mold
+latitude-64-sinus,Latitude 64,Sinus,404,a80561df-a326-5c10-a1e5-52d2d427e689,candidate_exact_brand_mold
+latitude-64-spark,Latitude 64,Spark,376,630941fa-ea19-51d2-b52c-f54c8d40ff29,candidate_exact_brand_mold
+latitude-64-stiletto,Latitude 64,Stiletto,360,a0767968-e50c-57f0-9c70-f06b67b2f6d0,candidate_exact_brand_mold
+latitude-64-striker,Latitude 64,Striker,377,83f08b76-2478-5a32-9077-b20993d24b56,candidate_exact_brand_mold
+latitude-64-strive,Latitude 64,Strive,166500,311a4a5f-8ab2-5456-a3d6-c9232443114b,candidate_exact_brand_mold
+latitude-64-sweep,Latitude 64,sweep,208364,c9ceed4f-23b1-5cab-9605-632aa70f0dbe,candidate_exact_brand_mold
+latitude-64-trident,Latitude 64,Trident,378,a3917a0d-2fba-5396-9d35-26a2aff0300b,candidate_exact_brand_mold
+latitude-64-trust,Latitude 64,Trust,21899,88109a69-43e0-5910-a052-9cfb9179268d,candidate_exact_brand_mold
+latitude-64-xxx,Latitude 64,XXX,380,786e7402-cdb2-5374-ba82-7057b27abcaa,candidate_exact_brand_mold
+legacy-aftermath,Legacy,Aftermath,,,unmatched_app_mold
+legacy-badger,Legacy,Badger,,,unmatched_app_mold
+legacy-bandit,Legacy,Bandit,,,unmatched_app_mold
+legacy-cannon,Legacy,Cannon,,,unmatched_app_mold
+legacy-clozer,Legacy,Clozer,,,unmatched_app_mold
+legacy-clutch,Legacy,Clutch,,,unmatched_app_mold
+legacy-enemy,Legacy,Enemy,,,unmatched_app_mold
+legacy-fighter,Legacy,Fighter,,,unmatched_app_mold
+legacy-gauge,Legacy,Gauge,,,unmatched_app_mold
+legacy-ghost,Legacy,Ghost,,,unmatched_app_mold
+legacy-hunter,Legacy,Hunter,,,unmatched_app_mold
+legacy-mongoose,Legacy,Mongoose,,,unmatched_app_mold
+legacy-nemesis,Legacy,Nemesis,,,unmatched_app_mold
+legacy-outlaw,Legacy,Outlaw,,,unmatched_app_mold
+legacy-patriot,Legacy,Patriot,,,unmatched_app_mold
+legacy-phenom,Legacy,Phenom,,,unmatched_app_mold
+legacy-prowler,Legacy,Prowler,,,unmatched_app_mold
+legacy-pursuit,Legacy,Pursuit,,,unmatched_app_mold
+legacy-rampage,Legacy,Rampage,,,unmatched_app_mold
+legacy-rebel,Legacy,Rebel,,,unmatched_app_mold
+legacy-recluse,Legacy,Recluse,,,unmatched_app_mold
+legacy-recon,Legacy,Recon,,,unmatched_app_mold
+legacy-rival,Legacy,Rival,,,unmatched_app_mold
+legacy-valor,Legacy,Valor,,,unmatched_app_mold
+legacy-vengeance,Legacy,Vengeance,,,unmatched_app_mold
+lightning-1-driver,Lightning,#1 Driver,,,unmatched_app_mold
+lightning-1-flyer,Lightning,#1 Flyer,,,unmatched_app_mold
+lightning-1-helix,Lightning,#1 Helix,,,unmatched_app_mold
+lightning-1-hookshot,Lightning,#1 Hookshot,,,unmatched_app_mold
+lightning-1-hyzer,Lightning,#1 Hyzer,,,unmatched_app_mold
+lone-star-discs-armadillo,Lone Star Discs,Armadillo,,,unmatched_app_mold
+lone-star-discs-bash,Lone Star Discs,Bash,,,unmatched_app_mold
+lone-star-discs-bayonet,Lone Star Discs,Bayonet,,,unmatched_app_mold
+lone-star-discs-bb6,Lone Star Discs,BB6,,,unmatched_app_mold
+lone-star-discs-bearkat,Lone Star Discs,Bearkat,,,unmatched_app_mold
+lone-star-discs-benny,Lone Star Discs,Benny,,,unmatched_app_mold
+lone-star-discs-bluebonnet,Lone Star Discs,Bluebonnet,,,unmatched_app_mold
+lone-star-discs-bowie,Lone Star Discs,Bowie,,,unmatched_app_mold
+lone-star-discs-brazos,Lone Star Discs,Brazos,,,unmatched_app_mold
+lone-star-discs-bull-snake,Lone Star Discs,Bull Snake,,,unmatched_app_mold
+lone-star-discs-cactus,Lone Star Discs,Cactus,,,unmatched_app_mold
+lone-star-discs-chuck,Lone Star Discs,Chuck,,,unmatched_app_mold
+lone-star-discs-chupacabra,Lone Star Discs,Chupacabra,,,unmatched_app_mold
+lone-star-discs-copperhead,Lone Star Discs,Copperhead,,,unmatched_app_mold
+lone-star-discs-crockett,Lone Star Discs,Crockett,,,unmatched_app_mold
+lone-star-discs-curl,Lone Star Discs,Curl,,,unmatched_app_mold
+lone-star-discs-desperado,Lone Star Discs,Desperado,,,unmatched_app_mold
+lone-star-discs-dos-x,Lone Star Discs,Dos X,,,unmatched_app_mold
+lone-star-discs-frio,Lone Star Discs,Frio,,,unmatched_app_mold
+lone-star-discs-growler,Lone Star Discs,Growler,,,unmatched_app_mold
+lone-star-discs-guadalupe,Lone Star Discs,Guadalupe,,,unmatched_app_mold
+lone-star-discs-harrier,Lone Star Discs,Harrier,,,unmatched_app_mold
+lone-star-discs-houston,Lone Star Discs,Houston,,,unmatched_app_mold
+lone-star-discs-jack-rabbit,Lone Star Discs,Jack Rabbit,,,unmatched_app_mold
+lone-star-discs-lariat,Lone Star Discs,Lariat,,,unmatched_app_mold
+lone-star-discs-lone-wolf,Lone Star Discs,Lone Wolf,,,unmatched_app_mold
+lone-star-discs-mad-cat,Lone Star Discs,Mad Cat,,,unmatched_app_mold
+lone-star-discs-middy,Lone Star Discs,Middy,,,unmatched_app_mold
+lone-star-discs-mockingbird,Lone Star Discs,Mockingbird,,,unmatched_app_mold
+lone-star-discs-nimitz,Lone Star Discs,Nimitz,,,unmatched_app_mold
+lone-star-discs-penny-putter-premium,Lone Star Discs,Penny Putter (Premium),,,unmatched_app_mold
+lone-star-discs-penny-putter-victor,Lone Star Discs,Penny Putter (Victor),,,unmatched_app_mold
+lone-star-discs-prickly-pear,Lone Star Discs,Prickly Pear,,,unmatched_app_mold
+lone-star-discs-rig,Lone Star Discs,Rig,,,unmatched_app_mold
+lone-star-discs-rio-grande,Lone Star Discs,Rio Grande,,,unmatched_app_mold
+lone-star-discs-seguin,Lone Star Discs,Seguin,,,unmatched_app_mold
+lone-star-discs-spur,Lone Star Discs,Spur,,,unmatched_app_mold
+lone-star-discs-tex,Lone Star Discs,Tex,,,unmatched_app_mold
+lone-star-discs-texas-ranger,Lone Star Discs,Texas Ranger,,,unmatched_app_mold
+lone-star-discs-the-dome,Lone Star Discs,The Dome,,,unmatched_app_mold
+lone-star-discs-tombstone,Lone Star Discs,Tombstone,,,unmatched_app_mold
+lone-star-discs-trinity,Lone Star Discs,Trinity,,,unmatched_app_mold
+lone-star-discs-tumbleweed,Lone Star Discs,Tumbleweed,,,unmatched_app_mold
+lone-star-discs-walker,Lone Star Discs,Walker,,,unmatched_app_mold
+lone-star-discs-warbird,Lone Star Discs,Warbird,,,unmatched_app_mold
+lone-star-discs-wrangler,Lone Star Discs,Wrangler,,,unmatched_app_mold
+lone-star-discs-yellow-rose,Lone Star Discs,Yellow Rose,,,unmatched_app_mold
+millennium-aquarius,Millennium,Aquarius,642,1c0aa535-125f-55f0-8ae6-fdf3d072568a,candidate_exact_brand_mold
+millennium-aries,Millennium,Aries,643,67955ac6-b957-506e-82ae-c0dcd4dab333,candidate_exact_brand_mold
+millennium-astra,Millennium,Astra,644,dcbbb7dd-3b04-5c39-860e-5671ea7aca96,candidate_exact_brand_mold
+millennium-astra-x,Millennium,Astra-X,645,8c7b601f-bcea-5d90-851a-c403373558a0,candidate_exact_brand_mold
+millennium-auroraqms,Millennium,Aurora/QMS,,,unmatched_app_mold
+millennium-draco,Millennium,Draco,650,658adc70-b48e-5e18-8373-f2a6207a6529,candidate_exact_brand_mold
+millennium-falcon,Millennium,Falcon,646,915f9207-0e41-5850-9058-921ee4b0f6ae,candidate_exact_brand_mold
+millennium-helio-vela,Millennium,Helio Vela,,,unmatched_app_mold
+millennium-jls,Millennium,JLS,653,79a9b66b-7c04-502c-b844-a588553cc091,candidate_exact_brand_mold
+millennium-mars-rover,Millennium,Mars Rover,,,unmatched_app_mold
+millennium-moab,Millennium,Moab,,,unmatched_app_mold
+millennium-mortar,Millennium,Mortar,,,unmatched_app_mold
+millennium-omega,Millennium,Omega,660,a7b876f2-ba2a-5a99-9612-4dc882dddc49,candidate_exact_brand_mold
+millennium-omega-4,Millennium,Omega 4,22582,7f7cbc27-f3c9-5df9-92a2-9658cedc6ec0,candidate_exact_brand_mold
+millennium-omega-big-bead,Millennium,Omega Big Bead,663,99613d32-50b8-58a7-88d1-f49eb5be1d65,candidate_exact_brand_mold
+millennium-orion-lf,Millennium,Orion LF,654,4b38e6f8-6dda-5f87-88cb-3582861bb2e8,candidate_exact_brand_mold
+millennium-orion-ls,Millennium,Orion LS,655,ae49c119-424d-53d9-87b5-5f4cba74f53d,candidate_exact_brand_mold
+millennium-polaris-lf-oop,Millennium,Polaris LF (OOP),,,unmatched_app_mold
+millennium-polaris-ls,Millennium,Polaris LS,656,ccdf7b01-c9e7-582d-af38-d6b56c3d4d4f,candidate_exact_brand_mold
+millennium-quasar,Millennium,Quasar,648,f0e1e446-ad38-574d-b9f5-072ccd02c7b4,candidate_exact_brand_mold
+millennium-sabot,Millennium,Sabot,,,unmatched_app_mold
+millennium-scorpius,Millennium,Scorpius,649,65f64e78-bebb-5416-b692-1f02b6ced953,candidate_exact_brand_mold
+millennium-sentinel,Millennium,Sentinel,,,unmatched_app_mold
+millennium-solstice,Millennium,Solstice,28153,aa20a986-37ea-5765-8ce0-cb6c5aa65af5,candidate_exact_brand_mold
+millennium-vela,Millennium,Vela,,,unmatched_app_mold
+millennium-zodiac,Millennium,Zodiac,,,unmatched_app_mold
+mint-discs-alpha,Mint Discs,Alpha,667,1e878e9e-7e90-5ca5-b25e-d3ea3a13fc70,candidate_exact_brand_mold
+mint-discs-bobcat,Mint Discs,Bobcat,668,941a3be3-45bc-5cbe-83b0-a0ed46863b78,candidate_exact_brand_mold
+mint-discs-bullet,Mint Discs,Bullet,847,a560cddb-d89a-5184-b517-88a0ef8ca556,candidate_exact_brand_mold
+mint-discs-diamondback,Mint Discs,Diamondback,85146,608550bf-6fda-591c-a696-5bf035cd8ec8,candidate_exact_brand_mold
+mint-discs-freetail,Mint Discs,Freetail,666,943c874a-d55e-5a39-8659-1f5aea6330be,candidate_exact_brand_mold
+mint-discs-goat,Mint Discs,Goat,87322,b3b6049b-e697-5a8f-9ff3-1ce31afe4ccd,candidate_exact_brand_mold
+mint-discs-goat-eternal,Mint Discs,Goat (Eternal),,,unmatched_app_mold
+mint-discs-grackle,Mint Discs,Grackle,76977,127a8bf9-bcd8-5919-a7a1-5b890a77fcb7,candidate_exact_brand_mold
+mint-discs-idol,Mint Discs,Idol,,,unmatched_app_mold
+mint-discs-jackalope,Mint Discs,Jackalope,17273,54094904-c06f-54f8-b54a-830eb562c3d4,candidate_exact_brand_mold
+mint-discs-lasso,Mint Discs,Lasso,158969,67cc1ec6-47f9-525f-a010-2126f2ce03a6,candidate_exact_brand_mold
+mint-discs-lobster,Mint Discs,Lobster,57017,a2e5aa53-7fdc-51a3-8de4-b4821f473fa5,candidate_exact_brand_mold
+mint-discs-longhorn,Mint Discs,Longhorn,1129,de3602fa-deb1-5de3-864a-fe4d72d35e12,candidate_exact_brand_mold
+mint-discs-mustang,Mint Discs,Mustang,1203,adfe4fb4-8b57-5968-83b4-e1e44bc0508c,candidate_exact_brand_mold
+mint-discs-phoenix,Mint Discs,Phoenix,87668,948a20b7-77ce-560a-9097-5b5736348e10,candidate_exact_brand_mold
+mint-discs-pickle,Mint Discs,Pickle,,,unmatched_app_mold
+mint-discs-pizza,Mint Discs,Pizza,,,unmatched_app_mold
+mint-discs-profit,Mint Discs,Profit,669,b1b457d4-fdf5-5cd3-9f92-562e690fc454,candidate_exact_brand_mold
+mint-discs-rodeo,Mint Discs,Rodeo,,,unmatched_app_mold
+mint-discs-salamander,Mint Discs,Salamander,201240,929d4446-ea23-5f5c-8960-409083cb4a25,candidate_exact_brand_mold
+mint-discs-taco,Mint Discs,Taco,170323,f66ea21e-1033-5097-b4bd-e89d7af037a8,candidate_exact_brand_mold
+mint-discs-ufo,Mint Discs,UFO,151674,5625a540-b1e1-5dcd-a767-51ff5bb8c94a,candidate_exact_brand_mold
+mvp-atom,MVP,Atom,439,f3b1d767-cc0f-53dd-8b9b-2a2363702bfd,candidate_exact_brand_mold
+mvp-catalyst,MVP,Catalyst,406,05aff4e9-4376-5a87-86b8-be1e9ad91a42,candidate_exact_brand_mold
+mvp-control,MVP,Control,,,unmatched_app_mold
+mvp-deflector,MVP,Deflector,431,28d6c900-8ce2-597d-b2cc-ae698d5ed376,candidate_exact_brand_mold
+mvp-detour,MVP,Detour,161435,690d0945-c6cb-5360-9539-1d98f76a1ea2,candidate_exact_brand_mold
+mvp-dimension,MVP,Dimension,407,3f24c207-ada2-5e9b-ab5c-e541b43d0ffd,candidate_exact_brand_mold
+mvp-energy,MVP,Energy,408,56da8957-2bc9-5c03-ac81-4c4d5a107d27,candidate_exact_brand_mold
+mvp-entropy,MVP,Entropy,440,457f3d5a-07fc-5823-8e08-c51f7cf3fbcd,candidate_exact_brand_mold
+mvp-glitch,MVP,Glitch,77990,8781a5e6-0f76-5fd1-b43b-7b76100ac402,candidate_exact_brand_mold
+mvp-impulse,MVP,Impulse,409,76ef8b4e-9a4b-5560-a8df-0497dd3751a0,candidate_exact_brand_mold
+mvp-inertia,MVP,Inertia,410,7284e161-e9c5-574b-a9ad-bfb86a357a0e,candidate_exact_brand_mold
+mvp-ion,MVP,Ion,441,3f0c73bc-ed7a-51f9-81c0-8b25e9d639bd,candidate_exact_brand_mold
+mvp-matrix,MVP,Matrix,432,ecf86447-5bac-532e-9f71-277ed8b3174a,candidate_exact_brand_mold
+mvp-motion,MVP,Motion,412,2a4e50de-eca5-5900-af27-fb4a98069853,candidate_exact_brand_mold
+mvp-nitro,MVP,Nitro,413,cb6cfe23-f514-556c-b623-2d77e671ec0d,candidate_exact_brand_mold
+mvp-nomad,MVP,Nomad,23359,af775492-10f7-5f66-9213-390215df1c9c,candidate_exact_brand_mold
+mvp-octane,MVP,Octane,414,c4e449f4-efa7-591e-962c-b91d884e731c,candidate_exact_brand_mold
+mvp-ohm,MVP,Ohm,442,7856a586-08b9-5a5a-9f65-862b18572dff,candidate_exact_brand_mold
+mvp-orbital,MVP,Orbital,415,c6c22f5a-2005-5a8c-ba8e-335b95460fe6,candidate_exact_brand_mold
+mvp-phase,MVP,Phase,416,259c2c7b-8aa2-585a-b561-1a11ce84b2d0,candidate_exact_brand_mold
+mvp-photon,MVP,Photon,417,6d0eee1b-e8a6-54d5-9031-a44f4dfe8124,candidate_exact_brand_mold
+mvp-reactor,MVP,Reactor,433,17ce0bf9-8fc9-5e52-95fb-73f081501eb5,candidate_exact_brand_mold
+mvp-relativity,MVP,Relativity,418,57cf3152-6641-5ed3-b331-0db20778ef6c,candidate_exact_brand_mold
+mvp-relay,MVP,Relay,423,9755143f-7d0f-551f-85c9-72b9f6374bf1,candidate_exact_brand_mold
+mvp-resistor,MVP,Resistor,424,cb877241-98a5-535b-9b19-4df3f398ca30,candidate_exact_brand_mold
+mvp-servo,MVP,Servo,425,a80e167c-0cfc-54a1-92bb-54d067ca8e76,candidate_exact_brand_mold
+mvp-signal,MVP,Signal,427,112ffe9d-54de-5ae5-b89d-8b46d4c84b7d,candidate_exact_brand_mold
+mvp-spin,MVP,Spin,444,380ce593-acf8-5d36-8031-344bbfdd102a,candidate_exact_brand_mold
+mvp-teleport,MVP,Teleport,419,1db593da-98c8-5dd9-a692-9a4b2dee3456,candidate_exact_brand_mold
+mvp-terra,MVP,Terra,28224,f5379589-39a8-5a9f-8f56-b9532b2d3f20,candidate_exact_brand_mold
+mvp-tesla,MVP,Tesla,420,322e2bbe-7fd2-5a7c-ae76-86c7add44d80,candidate_exact_brand_mold
+mvp-trail,MVP,Trail,178166,5072e1d9-10a2-538b-a4f6-9821403b2eeb,candidate_exact_brand_mold
+mvp-volt,MVP,Volt,429,6ad1e3cc-23a0-58b0-8e8e-a7cf7ff33b23,candidate_exact_brand_mold
+mvp-watt,MVP,Watt,134914,ce5f380f-3912-53c3-85d2-7227ad572f35,candidate_exact_brand_mold
+mvp-wave,MVP,Wave,421,72c74fa0-21d2-5d21-aee7-59ea739adfc1,candidate_exact_brand_mold
+mvp-zenith,MVP,Zenith,61965,bd213b12-ca77-5942-ae73-5b280a30a991,candidate_exact_brand_mold
+neptune-discs-marlin,Neptune Discs,Marlin,184155,131690c6-c4a8-5175-9e2e-e847da9d1b34,candidate_exact_brand_mold
+neptune-discs-nautilus,Neptune Discs,Nautilus,184220,31374232-f585-5650-8504-35cb03b9fa10,candidate_exact_brand_mold
+neptune-discs-splash,Neptune Discs,Splash,184597,fc53114d-1fe1-53de-b5cf-b3b30a1cca61,candidate_exact_brand_mold
+neptune-discs-squid,Neptune Discs,Squid,64950,442d29f5-1f02-5ade-9946-587b18b8c419,candidate_exact_brand_mold
+other-andro-c,Other,Andro C,,,unmatched_app_mold
+other-andro-c-retooled,Other,Andro C (Retooled),,,unmatched_app_mold
+other-apollo,Other,Apollo,,,unmatched_app_mold
+other-cypress,Other,Cypress,,,unmatched_app_mold
+other-flying-squirrel,Other,Flying Squirrel,,,unmatched_app_mold
+other-golem,Other,Golem,,,unmatched_app_mold
+other-i-one,Other,I-One,,,unmatched_app_mold
+other-kgb,Other,KGB,,,unmatched_app_mold
+other-kraken,Other,Kraken,,,unmatched_app_mold
+other-lawin,Other,Lawin,,,unmatched_app_mold
+other-leviathan,Other,Leviathan,,,unmatched_app_mold
+other-minotaur,Other,Minotaur,,,unmatched_app_mold
+other-narwhal,Other,Narwhal,,,unmatched_app_mold
+other-nice,Other,Nice!,,,unmatched_app_mold
+other-pure-og,Other,Pure OG,,,unmatched_app_mold
+other-strike,Other,Strike,,,unmatched_app_mold
+other-tiyanak,Other,Tiyanak,,,unmatched_app_mold
+other-tyrant,Other,Tyrant,,,unmatched_app_mold
+other-ultra,Other,Ultra,,,unmatched_app_mold
+other-zeal,Other,Zeal,,,unmatched_app_mold
+prodigy-archive,Prodigy,Archive,144494,b5bb7ddc-40fa-59b0-b029-1b97fe98fe31,candidate_exact_brand_mold
+prodigy-d-model-os,Prodigy,D Model OS,445,9e30739e-be89-5107-bc78-aacfcf7b6ebb,candidate_exact_brand_mold
+prodigy-d-model-s,Prodigy,D Model S,446,a43065c3-fb2e-585e-a4ae-5242c1fd2b39,candidate_exact_brand_mold
+prodigy-d-model-us,Prodigy,D Model US,447,7226fb51-30b2-5ffd-8ee4-f8fa7bafeb5f,candidate_exact_brand_mold
+prodigy-d1,Prodigy,D1,448,722b6cd2-5b3b-56c0-942a-9466b1807ba4,candidate_exact_brand_mold
+prodigy-d1-max,Prodigy,D1 Max,449,d90bbf54-2dbd-52b9-af75-56a81eb3599d,candidate_exact_brand_mold
+prodigy-d2,Prodigy,D2,450,d7569397-465e-5d6c-b2e0-d42b6483d06b,candidate_exact_brand_mold
+prodigy-d2-max,Prodigy,D2 Max,451,24a3cf80-c26d-58fe-a083-4cb520da3e8c,candidate_exact_brand_mold
+prodigy-d2-pro,Prodigy,D2 Pro,23031,cf5a0054-bc4f-5898-9f94-d7a65a8811df,candidate_exact_brand_mold
+prodigy-d2-signature-falcor,Prodigy,D2 Signature (Falcor),,,unmatched_app_mold
+prodigy-d3,Prodigy,D3,452,3e89ecf9-bfdc-53ec-ba0f-444290d1dea4,candidate_exact_brand_mold
+prodigy-d3-max,Prodigy,D3 Max,453,7cb57dd8-2388-5fae-ad0f-c4ad653a3ac2,candidate_exact_brand_mold
+prodigy-d4,Prodigy,D4,454,ea0c8d16-f137-5263-9398-f03d68de5b50,candidate_exact_brand_mold
+prodigy-d4-max,Prodigy,D4 Max,5854,180ad369-ac06-53d2-bfae-2c1c5f878bfd,candidate_exact_brand_mold
+prodigy-d6,Prodigy,D6,456,22bfea36-b9eb-5a11-b567-c6d64415006d,candidate_exact_brand_mold
+prodigy-f-model-os,Prodigy,F Model OS,971,1dda603f-5a77-5d62-9fec-88fba89e295c,candidate_exact_brand_mold
+prodigy-f-model-s,Prodigy,F Model S,462,a1c68360-73a5-555a-af4e-a8fb90469bdc,candidate_exact_brand_mold
+prodigy-f-model-us,Prodigy,F Model US,463,27d5b796-f572-526f-8c99-d56e3286de79,candidate_exact_brand_mold
+prodigy-f1,Prodigy,F1,464,5b2bd888-2cee-56e1-b6cf-920863ca3351,candidate_exact_brand_mold
+prodigy-f2,Prodigy,F2,465,1f35c8f2-a4ab-53e0-854b-f68377c9dcf6,candidate_exact_brand_mold
+prodigy-f3,Prodigy,F3,466,c01423ca-02ed-576f-977a-bc0849a71d70,candidate_exact_brand_mold
+prodigy-f5,Prodigy,F5,467,39ddc2c6-e747-54fa-89c2-ca39098d39c6,candidate_exact_brand_mold
+prodigy-f7,Prodigy,F7,468,ab3ab52f-0795-5b0f-97b8-6bf81a33b0b6,candidate_exact_brand_mold
+prodigy-f9,Prodigy,F9,144761,45a3f7fb-3f3d-5f4f-8151-c8b850dc1b81,candidate_exact_brand_mold
+prodigy-feedback,Prodigy,Feedback,157746,f5487457-dc97-51a9-8307-9a1fca35fd09,candidate_exact_brand_mold
+prodigy-fx-2,Prodigy,FX-2,469,67c5d99a-a8fc-5573-babe-7fe067990eb8,candidate_exact_brand_mold
+prodigy-fx-3,Prodigy,FX-3,33277,ac20a594-2a03-5374-bb76-bb217210343d,candidate_exact_brand_mold
+prodigy-fx-4,Prodigy,FX-4,34222,eb6a3fad-4b68-5d10-a80b-101663d18a28,candidate_exact_brand_mold
+prodigy-h1-v2,Prodigy,H1 (V2),471,02ad8337-ff29-557a-9f7c-fa186c3124e4,candidate_exact_brand_mold
+prodigy-h2-v2,Prodigy,H2 (V2),473,449410b5-5d95-5b61-bd0f-3680b994f779,candidate_exact_brand_mold
+prodigy-h3-v2,Prodigy,H3 (V2),475,dfe76add-bdd4-52a9-99f4-1227e0d20f3e,candidate_exact_brand_mold
+prodigy-h4-v2,Prodigy,H4 (V2),477,bec9c43e-9042-5509-b788-eb6dcaa28166,candidate_exact_brand_mold
+prodigy-h5,Prodigy,H5,478,a35019b2-e32f-5e00-9a62-ab078e4aca97,candidate_exact_brand_mold
+prodigy-h6,Prodigy,h6,,,unmatched_app_mold
+prodigy-h7,Prodigy,H7,64949,942b9795-a24b-5191-b4f6-559427e4ca29,candidate_exact_brand_mold
+prodigy-m-model-s,Prodigy,M Model S,480,c077e61c-a8a9-5550-b93e-734562ad8912,candidate_exact_brand_mold
+prodigy-m-model-us,Prodigy,M Model US,481,afcc7af4-750e-5062-8dc9-d0cd2bd53922,candidate_exact_brand_mold
+prodigy-m1,Prodigy,M1,482,826bbaae-ce0c-5bee-be14-29e938c5440f,candidate_exact_brand_mold
+prodigy-m2,Prodigy,M2,483,4eb56948-02e4-57ab-8659-33ac0b8255d2,candidate_exact_brand_mold
+prodigy-m3,Prodigy,M3,484,6016b7ad-31ce-5d5f-b31c-16fe00d16be2,candidate_exact_brand_mold
+prodigy-m4,Prodigy,M4,485,8c322176-a122-5a30-8833-6c49f742f888,candidate_exact_brand_mold
+prodigy-m5,Prodigy,M5,486,a894c0ac-068e-5e8d-b6eb-04127139edec,candidate_exact_brand_mold
+prodigy-mx-1,Prodigy,MX-1,87554,2f0664ee-7e1a-52be-9c1f-537515c4f882,candidate_exact_brand_mold
+prodigy-mx-2,Prodigy,MX-2,172918,9d1c00a5-1dcc-5bec-a5d8-8dd3cdba1821,candidate_exact_brand_mold
+prodigy-mx-3,Prodigy,MX-3,487,bafdde12-48f6-5897-9eea-8b55b8c96d59,candidate_exact_brand_mold
+prodigy-nerf-driver,Prodigy,NERF Driver,,,unmatched_app_mold
+prodigy-nerf-midrange,Prodigy,NERF Midrange,,,unmatched_app_mold
+prodigy-nerf-putter,Prodigy,NERF Putter,,,unmatched_app_mold
+prodigy-nerf-ultimate,Prodigy,NERF Ultimate,,,unmatched_app_mold
+prodigy-p-model-os,Prodigy,P Model OS,208763,f198f231-2672-5ed9-a7a0-1fda48e16b75,candidate_exact_brand_mold
+prodigy-p-model-s,Prodigy,P Model S,492,cfb689ac-f4c6-54ec-94cf-8ad86ff7b530,candidate_exact_brand_mold
+prodigy-p-model-us,Prodigy,P Model US,34492|493,,ambiguous_duplicate_brand_mold
+prodigy-pa1,Prodigy,PA1,494,20cd1be9-0af0-5978-a43d-9999c88eb214,candidate_exact_brand_mold
+prodigy-pa2,Prodigy,PA2,495,40467b93-9ccc-56ff-b777-fd7cd5e4b112,candidate_exact_brand_mold
+prodigy-pa3,Prodigy,PA3,496,794ba331-1c55-54de-a271-988dfd6b8b41,candidate_exact_brand_mold
+prodigy-pa4,Prodigy,PA4,497,ec16b941-4a32-5bd5-b881-643bbd2c260d,candidate_exact_brand_mold
+prodigy-pa5,Prodigy,PA5,74954,eeea0c4d-e1b5-5b62-a005-2e4aa75edd2f,candidate_exact_brand_mold
+prodigy-pivot,Prodigy,Pivot,231944,90552121-4c88-5e97-a023-50cc09c86682,candidate_exact_brand_mold
+prodigy-px-3,Prodigy,PX-3,23452,d6947503-3eb5-524b-b0be-d945675dd68a,candidate_exact_brand_mold
+prodigy-reverb,Prodigy,Reverb,33652,42d4aa61-a645-5fb8-8f00-cc6338b127e4,candidate_exact_brand_mold
+prodigy-shadowfax,Prodigy,Shadowfax,59984,b3e00e3a-07ff-59f0-8a8e-82431dc18769,candidate_exact_brand_mold
+prodigy-stryder,Prodigy,Stryder,64948,25f117eb-abf0-52e8-8a41-ac447bafac7c,candidate_exact_brand_mold
+prodigy-waco,Prodigy,Waco,166498,6052d4b6-e5a8-5329-969a-0d96f2307722,candidate_exact_brand_mold
+prodigy-x2,Prodigy,X2,458,0310a53f-4ce9-5489-9055-a15c2d97a359,candidate_exact_brand_mold
+prodigy-x3,Prodigy,X3,459,1dea73a8-0011-5a1f-addf-3100ffbca91c,candidate_exact_brand_mold
+prodigy-x4,Prodigy,X4,460,c8fb9782-52ee-5b29-9d19-8af539a274f2,candidate_exact_brand_mold
+prodigy-x5,Prodigy,X5,461,6bad9fc6-d761-5819-87ec-24f724113099,candidate_exact_brand_mold
+prodiscus-amulet,Prodiscus,Amulet,183465,0b543955-34e9-5226-9d89-d593dbad33bd,candidate_exact_brand_mold
+prodiscus-empire,Prodiscus,Empire,183781,88f2edf5-e5d3-5da5-bb66-627c8916445e,candidate_exact_brand_mold
+prodiscus-fasti,Prodiscus,Fasti,674,96e9c8ec-b96c-5244-b8bb-65fbaab710dc,candidate_exact_brand_mold
+prodiscus-flipperi,Prodiscus,Flipperi,679,f5f73a5e-fe9c-58c9-bec6-191f663c8986,candidate_exact_brand_mold
+prodiscus-jokeri,Prodiscus,Jokeri,685,df484c1d-98da-510c-b8e4-2fdc7a7f8a2c,candidate_exact_brand_mold
+prodiscus-jokerix,Prodiscus,JokeriX,184031,34a3fbe6-317a-5c0c-8f24-4823b29af3f3,candidate_exact_brand_mold
+prodiscus-laseri,Prodiscus,Laseri,680,9c8857c6-6ef1-5c7d-943c-7bade0a500b8,candidate_exact_brand_mold
+prodiscus-legenda,Prodiscus,Legenda,675,a012395b-67e0-5c55-accc-1a2d9d3b97f0,candidate_exact_brand_mold
+prodiscus-midari,Prodiscus,Midari,683,9ad1c2f4-92f2-5593-b368-4dfade5cac1e,candidate_exact_brand_mold
+prodiscus-origo,Prodiscus,Origo,86547,c2cf6c00-4d48-51b1-b557-661bb2cd5fd1,candidate_exact_brand_mold
+prodiscus-razeri,Prodiscus,Razeri,676,e0b96206-7ccc-561b-a2f6-0b9cd4ca48db,candidate_exact_brand_mold
+prodiscus-respecti,Prodiscus,RESPECTi,681,98027b01-eb08-5b3f-999a-388f3ce8a299,candidate_exact_brand_mold
+prodiscus-slaidi,Prodiscus,Slaidi,677,c244c8b7-6c0f-5680-82a8-3424b43788b6,candidate_exact_brand_mold
+prodiscus-sparta,Prodiscus,Sparta,686,968bd388-d233-5881-9238-4c1c8184dfe4,candidate_exact_brand_mold
+prodiscus-stari,Prodiscus,Stari,684,8273219f-e0ef-5b25-9bd0-df74bc0b1452,candidate_exact_brand_mold
+prodiscus-talisman,Prodiscus,Talisman,184680,26d39aa5-9d40-55a1-91f1-7efd7a1ccb9f,candidate_exact_brand_mold
+prodiscus-titan,Prodiscus,Titan,678,8f86c8fd-b63c-5c0c-9d14-9b6426334a6e,candidate_exact_brand_mold
+rpm-huia,RPM,Huia,,,unmatched_app_mold
+rpm-kahu,RPM,Kahu,,,unmatched_app_mold
+rpm-kahu-os,RPM,Kahu OS,,,unmatched_app_mold
+rpm-kahu-xg,RPM,Kahu XG,,,unmatched_app_mold
+rpm-kea,RPM,Kea,,,unmatched_app_mold
+rpm-kiwi,RPM,Kiwi,,,unmatched_app_mold
+rpm-kotare,RPM,Kotare,,,unmatched_app_mold
+rpm-kotuku,RPM,Kotuku,,,unmatched_app_mold
+rpm-pekapeka,RPM,Pekapeka,,,unmatched_app_mold
+rpm-piwakawaka,RPM,Piwakawaka,,,unmatched_app_mold
+rpm-ruru,RPM,Ruru,,,unmatched_app_mold
+rpm-takapu,RPM,Takapu,,,unmatched_app_mold
+rpm-tara-iti,RPM,Tara iti,,,unmatched_app_mold
+rpm-tui,RPM,Tui,,,unmatched_app_mold
+sacred-discs-arrowhead,Sacred Discs,Arrowhead,146895,c7d7eb25-57bb-5433-bb65-53e3fe6003a8,candidate_exact_brand_mold
+sacred-discs-gnome,Sacred Discs,Gnome,147230,6cce82f7-7297-576e-84bf-0018b82264a4,candidate_exact_brand_mold
+sacred-discs-oracle,Sacred Discs,Oracle,147549,a5934fd7-31a3-5049-82e7-a40b56b059fc,candidate_exact_brand_mold
+sacred-discs-starship,Sacred Discs,Starship,147820,092fb822-3faf-507f-bca3-d80dccc24e2f,candidate_exact_brand_mold
+stokely-discs-cardinal,Stokely Discs,Cardinal,171616,4204139b-5560-5072-bb73-e482425fa5b2,candidate_exact_brand_mold
+stokely-discs-ching-juju,Stokely Discs,CHING Juju,,,unmatched_app_mold
+stokely-discs-finch,Stokely Discs,Finch,208930,a3ecc621-9a37-5af7-875e-9907fb5ed1d8,candidate_exact_brand_mold
+stokely-discs-lark,Stokely Discs,Lark,208931,ec98baac-eb4a-5ba4-91c8-d1217c64ec30,candidate_exact_brand_mold
+stokely-discs-peregrine,Stokely Discs,Peregrine,208934,11ab8ac8-d9e7-5b2b-b5b2-8efa326f5a4e,candidate_exact_brand_mold
+stokely-discs-precision,Stokely Discs,Precision,,,unmatched_app_mold
+stokely-discs-robin,Stokely Discs,Robin,220529,5d0b30a7-1795-5966-9dbc-914bb50c2a09,candidate_exact_brand_mold
+stokely-discs-wren,Stokely Discs,Wren,171615,9f43c3af-c793-5b69-ac6f-1f191f2c8f91,candidate_exact_brand_mold
+storm-abyss,Storm,Abyss,,,unmatched_app_mold
+storm-radar,Storm,Radar,,,unmatched_app_mold
+storm-the-crater,Storm,The Crater,,,unmatched_app_mold
+storm-the-eye,Storm,The Eye,,,unmatched_app_mold
+storm-wall-cloud,Storm,Wall Cloud,,,unmatched_app_mold
+streamline-ascend,Streamline,Ascend,91391,fda31fe0-74ea-5085-8e0f-04ed4f3f57e5,candidate_exact_brand_mold
+streamline-boost,Streamline,Boost,220532,0f6b80c3-3622-52de-95a2-b3ef85eba272,candidate_exact_brand_mold
+streamline-drift,Streamline,Drift,728,0a88d38d-b32d-57e4-ba77-0c9fce4c4dcc,candidate_exact_brand_mold
+streamline-echo,Streamline,Echo,86187,748ece59-0103-5cf5-8a51-4563cd20afe7,candidate_exact_brand_mold
+streamline-engine,Streamline,Engine,208946,bef6f3a8-eb8b-5a6c-8041-2ba220c56440,candidate_exact_brand_mold
+streamline-flare,Streamline,Flare,725,d99851ff-c11d-5152-b9a2-461c57e8b50b,candidate_exact_brand_mold
+streamline-jet,Streamline,Jet,33369,9ef0de03-8462-5fe5-b1fd-119cf3525488,candidate_exact_brand_mold
+streamline-lift,Streamline,Lift,726,e4daf1c0-18e1-5823-ad1d-70160f3bd2ed,candidate_exact_brand_mold
+streamline-parachute,Streamline,Parachute,184320,16898b1e-9631-5128-8efb-fb5a44a9cccb,candidate_exact_brand_mold
+streamline-pilot,Streamline,Pilot,730,ee26092d-98eb-52ed-aded-27e1c76763eb,candidate_exact_brand_mold
+streamline-range,Streamline,Range,192293,f624bb2e-369a-5a48-9a97-d89589b821b4,candidate_exact_brand_mold
+streamline-runway,Streamline,Runway,729,4a0b4713-ff74-5762-9347-9ab6fd1b5cf6,candidate_exact_brand_mold
+streamline-shift,Streamline,Shift,184536,c0fcacaf-66f6-5216-82d3-1ccb0bbbd2e7,candidate_exact_brand_mold
+streamline-stabilizer,Streamline,Stabilizer,731,566b4d7d-855f-5c91-9832-a171e3f17c46,candidate_exact_brand_mold
+streamline-trace,Streamline,Trace,727,4876dfd6-d230-52f6-99de-8425d73801a8,candidate_exact_brand_mold
+streamline-turbulence,Streamline,Turbulence,,,unmatched_app_mold
+thought-space-athletics-alter,Thought Space Athletics,Alter,72947,d39f5b5a-34d2-5837-a1cf-21c3781f5b68,candidate_exact_brand_mold
+thought-space-athletics-animus,Thought Space Athletics,Animus,11045,f9e6219f-ed72-54a8-b5d1-d41e734c78a8,candidate_exact_brand_mold
+thought-space-athletics-coalesce,Thought Space Athletics,Coalesce,54061,f06aa433-f565-5b76-9493-6c09d2c399e4,candidate_exact_brand_mold
+thought-space-athletics-construct,Thought Space Athletics,Construct,79836,19e7bb81-f8a7-54e7-87b0-f2674f8af3a8,candidate_exact_brand_mold
+thought-space-athletics-crux,Thought Space Athletics,Crux,208976,4ebbeae4-1b88-5331-9853-70a8c81570c5,candidate_exact_brand_mold
+thought-space-athletics-expanse,Thought Space Athletics,Expanse,208977,6271f793-6294-5cf2-9ae3-79ae6936d136,candidate_exact_brand_mold
+thought-space-athletics-mana,Thought Space Athletics,Mana,54060,ccb2f8fc-9462-5da3-841c-804521181887,candidate_exact_brand_mold
+thought-space-athletics-mantra,Thought Space Athletics,Mantra,11079,96554270-61d6-58e9-91d1-94c25793d526,candidate_exact_brand_mold
+thought-space-athletics-mellow,Thought Space Athletics,Mellow,,,unmatched_app_mold
+thought-space-athletics-muse,Thought Space Athletics,Muse,23344,f5df680f-f512-5b13-ac6c-b147937169f3,candidate_exact_brand_mold
+thought-space-athletics-nuance,Thought Space Athletics,Nuance,192283,836b1baf-61af-50c4-b27d-7496b3090dcd,candidate_exact_brand_mold
+thought-space-athletics-omen,Thought Space Athletics,Omen,33534,b25334e9-fa63-5a38-ab39-5d0bb3118c35,candidate_exact_brand_mold
+thought-space-athletics-pathfinder,Thought Space Athletics,Pathfinder,11086,1523df0c-7030-584e-9cff-a9140159d683,candidate_exact_brand_mold
+thought-space-athletics-persona,Thought Space Athletics,Persona,226231,ffe363a5-6de5-5662-abea-d1ed0d12254e,candidate_exact_brand_mold
+thought-space-athletics-pneuma,Thought Space Athletics,Pneuma,158967,87d05bdd-f346-50b3-b5a1-33336cee3eec,candidate_exact_brand_mold
+thought-space-athletics-praxis,Thought Space Athletics,Praxis,23436,835c47f8-688a-5189-88b0-636ca6844493,candidate_exact_brand_mold
+thought-space-athletics-requiem,Thought Space Athletics,Requiem,,,unmatched_app_mold
+thought-space-athletics-synapse,Thought Space Athletics,Synapse,33780,2dca17c1-9aee-5f7d-aa61-7d51baeb3ef4,candidate_exact_brand_mold
+thought-space-athletics-votum,Thought Space Athletics,Votum,23701,53bd58ba-d0a6-540f-b067-67f36d99a525,candidate_exact_brand_mold
+trash-panda-dune,Trash Panda,Dune,149527,5bc96da6-50f8-5a35-b6e6-154e23cf8601,candidate_exact_brand_mold
+trash-panda-inner-core,Trash Panda,Inner Core,89186,b4634f6e-5066-5f51-9be3-c575f2fa6ad0,candidate_exact_brand_mold
+trash-panda-outer-core,Trash Panda,Outer Core,,,unmatched_app_mold
+trash-panda-ozone,Trash Panda,Ozone,174229,fcacb0a9-982f-5ff9-b6cf-5e9564f5f838,candidate_exact_brand_mold
+trash-panda-procyon,Trash Panda,Procyon,,,unmatched_app_mold
+vibram-arch,Vibram,Arch,87020,a3ba14a3-cb68-5818-b21c-905863cb8877,candidate_exact_brand_mold
+vibram-crag,Vibram,Crag,87158,81030c1a-7df1-51f7-a54e-87091fd43d20,candidate_exact_brand_mold
+vibram-ibex,Vibram,Ibex,87383,3b997e4d-81e1-56f1-9c65-136fa079a780,candidate_exact_brand_mold
+vibram-lace,Vibram,Lace,87442,126bd376-7f4c-552e-978e-a43384db1f9d,candidate_exact_brand_mold
+vibram-launch,Vibram,Launch,87447,2bfc3de0-6c01-59ea-9e02-679f123d60d7,candidate_exact_brand_mold
+vibram-notch,Vibram,Notch,87593,738bc09a-281e-5d8d-bccc-2fb195b69977,candidate_exact_brand_mold
+vibram-o-lace,Vibram,O-Lace,87599,1dbbf85e-cd74-5c5d-ae93-1d4172234f3b,candidate_exact_brand_mold
+vibram-obex,Vibram,Obex,87600,936ed605-da70-54d7-ba72-8ce4a63374e3,candidate_exact_brand_mold
+vibram-onyx,Vibram,Onyx,87615,7c9bb895-3065-52a9-b51a-a30fb5ea176f,candidate_exact_brand_mold
+vibram-ridge,Vibram,Ridge,87747,bf472d75-c056-5b63-a6d9-27e648abb334,candidate_exact_brand_mold
+vibram-solace,Vibram,Solace,87835,d62c8e5b-b816-5ec7-ad61-41a3554ba19b,candidate_exact_brand_mold
+vibram-sole,Vibram,Sole,87836,5376ee56-b390-5efe-ab07-3a834a864a4c,candidate_exact_brand_mold
+vibram-summit,Vibram,Summit,87877,3ba47fb8-2d5c-570c-ad22-4d3924142de1,candidate_exact_brand_mold
+vibram-unlace,Vibram,UnLace,87967,5a006991-28f7-5d68-b085-7a73b893822b,candidate_exact_brand_mold
+vibram-valley,Vibram,Valley,87975,a2eb127b-e194-52cd-ba62-17b682b24cf5,candidate_exact_brand_mold
+vibram-vamp,Vibram,Vamp,87977,886dd18d-d29a-58c7-a6f0-dfd3462efaa1,candidate_exact_brand_mold
+vibram-vp,Vibram,VP,88002,ed7c110a-a306-5c5f-a6e7-6a1ded18326f,candidate_exact_brand_mold
+viking-axe,Viking,Axe,,,unmatched_app_mold
+viking-barbarian,Viking,Barbarian,,,unmatched_app_mold
+viking-berserker,Viking,Berserker,,,unmatched_app_mold
+viking-cosmos,Viking,Cosmos,,,unmatched_app_mold
+viking-fenrir,Viking,Fenrir,,,unmatched_app_mold
+viking-knife,Viking,Knife,,,unmatched_app_mold
+viking-odin,Viking,Odin,,,unmatched_app_mold
+viking-ragnarok,Viking,Ragnarok,,,unmatched_app_mold
+viking-rune,Viking,Rune,,,unmatched_app_mold
+viking-thor,Viking,Thor,,,unmatched_app_mold
+viking-warrior-viking,Viking,Warrior (Viking),,,unmatched_app_mold
+westside-discs-adder,Westside Discs,Adder,,,unmatched_app_mold
+westside-discs-ahti,Westside Discs,Ahti,,,unmatched_app_mold
+westside-discs-anvil,Westside Discs,Anvil,,,unmatched_app_mold
+westside-discs-bard,Westside Discs,Bard,,,unmatched_app_mold
+westside-discs-bear,Westside Discs,Bear,,,unmatched_app_mold
+westside-discs-boatman,Westside Discs,Boatman,,,unmatched_app_mold
+westside-discs-catapult,Westside Discs,Catapult,,,unmatched_app_mold
+westside-discs-crown,Westside Discs,Crown,,,unmatched_app_mold
+westside-discs-destiny,Westside Discs,Destiny,,,unmatched_app_mold
+westside-discs-fortress,Westside Discs,Fortress,,,unmatched_app_mold
+westside-discs-gatekeeper,Westside Discs,Gatekeeper,,,unmatched_app_mold
+westside-discs-giant,Westside Discs,Giant,,,unmatched_app_mold
+westside-discs-giant-reborn,Westside Discs,Giant Reborn,,,unmatched_app_mold
+westside-discs-harp,Westside Discs,Harp,,,unmatched_app_mold
+westside-discs-hatchet,Westside Discs,Hatchet,,,unmatched_app_mold
+westside-discs-king,Westside Discs,King,,,unmatched_app_mold
+westside-discs-longbowman,Westside Discs,Longbowman,,,unmatched_app_mold
+westside-discs-maiden,Westside Discs,Maiden,,,unmatched_app_mold
+westside-discs-northman,Westside Discs,Northman,,,unmatched_app_mold
+westside-discs-pine,Westside Discs,Pine,,,unmatched_app_mold
+westside-discs-prince,Westside Discs,Prince,,,unmatched_app_mold
+westside-discs-queen,Westside Discs,Queen,,,unmatched_app_mold
+westside-discs-sampo,Westside Discs,Sampo,,,unmatched_app_mold
+westside-discs-seer,Westside Discs,Seer,,,unmatched_app_mold
+westside-discs-shield,Westside Discs,Shield,,,unmatched_app_mold
+westside-discs-sling,Westside Discs,Sling,,,unmatched_app_mold
+westside-discs-sorcerer,Westside Discs,Sorcerer,,,unmatched_app_mold
+westside-discs-stag,Westside Discs,Stag,,,unmatched_app_mold
+westside-discs-swan-1-reborn,Westside Discs,Swan 1 Reborn,,,unmatched_app_mold
+westside-discs-swan-2,Westside Discs,Swan 2,,,unmatched_app_mold
+westside-discs-sword,Westside Discs,Sword,,,unmatched_app_mold
+westside-discs-tide,Westside Discs,Tide,,,unmatched_app_mold
+westside-discs-tursas,Westside Discs,Tursas,,,unmatched_app_mold
+westside-discs-underworld,Westside Discs,Underworld,,,unmatched_app_mold
+westside-discs-vellamo,Westside Discs,Vellamo,,,unmatched_app_mold
+westside-discs-war-horse,Westside Discs,War Horse,,,unmatched_app_mold
+westside-discs-warship,Westside Discs,Warship,,,unmatched_app_mold
+westside-discs-world,Westside Discs,World,,,unmatched_app_mold
+wild-discs-addax,Wild Discs,Addax,16942,bbc5de32-7432-5cbf-a2d2-c934ef4b1fa7,candidate_exact_brand_mold
+wild-discs-addax-reborn,Wild Discs,Addax Reborn,,,unmatched_app_mold
+wild-discs-angler,Wild Discs,Angler,33010,4b70ffe9-55e7-513f-a606-53db34e72d84,candidate_exact_brand_mold
+wild-discs-hyena,Wild Discs,Hyena,108650,44202bbb-117f-53fd-b855-f8ac021a5c56,candidate_exact_brand_mold
+wild-discs-orca,Wild Discs,Orca,17423,44541897-4899-5b81-b34f-b5a2e1959d54,candidate_exact_brand_mold
+wild-discs-sea-otter,Wild Discs,Sea Otter,33698,819528f6-aa17-5de4-8dbe-1228a4060f11,candidate_exact_brand_mold
+wild-discs-tasmanian-devil-v2,Wild Discs,Tasmanian Devil V2,109194,ef7f69f4-4ec5-507d-a7e8-4965bebb8e08,candidate_exact_brand_mold
+yikun-bai-ze,Yikun,Bai Ze,,,unmatched_app_mold
+yikun-bi,Yikun,Bi,75962,6799ba27-7ef7-529c-8e6a-a445653f31e1,candidate_exact_brand_mold
+yikun-claws,Yikun,Claws,757,42beda27-dced-5633-aa5d-103dd15a3114,candidate_exact_brand_mold
+yikun-crossbow,Yikun,Crossbow,,,unmatched_app_mold
+yikun-dae,Yikun,Da'E,923,85fd9393-b2e2-5638-ac5d-1ce2ca52d478,candidate_exact_brand_mold
+yikun-frey-ja,Yikun,Frey Ja,,,unmatched_app_mold
+yikun-fu,Yikun,Fu,21397,d6489245-499b-55af-8f81-a1706f1631ab,candidate_exact_brand_mold
+yikun-fu-xi,Yikun,Fu Xi,183861,7b5d1030-e60e-5fd6-8c28-ac09909e6e4f,candidate_exact_brand_mold
+yikun-gou,Yikun,Gou,748,e489c26a-5eee-58a9-8a91-a28662fd1b26,candidate_exact_brand_mold
+yikun-gui,Yikun,Gui,758,4a8220d9-13ce-58e9-8a04-07213080aec4,candidate_exact_brand_mold
+yikun-hou-yi,Yikun,Hou Yi,183974,ce769dcf-5185-52be-94f8-e730cb03848f,candidate_exact_brand_mold
+yikun-hu,Yikun,Hu,749,b2102164-a00e-5ebd-bfc0-30ab7cdd50a7,candidate_exact_brand_mold
+yikun-jiao,Yikun,Jiao,750,eee937aa-6093-5791-a133-cfa431eec963,candidate_exact_brand_mold
+yikun-jun,Yikun,Jun,744,4e3c49d4-2318-5c2b-a86a-9a757cd183a3,candidate_exact_brand_mold
+yikun-kang,Yikun,Kang,75963,80ce4384-0424-570f-98d4-5fab96f8868f,candidate_exact_brand_mold
+yikun-kui,Yikun,Kui,753,c3abc308-82ef-5c5c-99fd-f77ee66dacc9,candidate_exact_brand_mold
+yikun-ling,Yikun,Ling,75964,5578c441-3ee6-5899-8d2e-246cdeb7efc7,candidate_exact_brand_mold
+yikun-long,Yikun,Long,75960,b5cd01cb-7740-5011-90dd-b6eff73e29c6,candidate_exact_brand_mold
+yikun-lu,Yikun,Lu,,,unmatched_app_mold
+yikun-meteor-hammer,Yikun,Meteor Hammer,760,aefc517b-04f0-52a5-ab92-8c3131daa57d,candidate_exact_brand_mold
+yikun-ne-zha,Yikun,Ne Zha,,,unmatched_app_mold
+yikun-qi,Yikun,Qi,21698,f3bbbe9d-8b05-5335-adf2-a3d77e49e157,candidate_exact_brand_mold
+yikun-rong,Yikun,Rong,75961,16e8c453-d856-5b49-9067-41773f24fa1f,candidate_exact_brand_mold
+yikun-she-gong,Yikun,She Gong,184533,49dffec3-969b-519d-a71f-57c2e085f1f1,candidate_exact_brand_mold
+yikun-shu,Yikun,Shu,21789,823abd06-5bfc-5ac3-9ad1-719f311de1ff,candidate_exact_brand_mold
+yikun-tomahawk,Yikun,Tomahawk,754,f9e436bb-11a3-57d8-be98-05ea5691c060,candidate_exact_brand_mold
+yikun-twin-swords,Yikun,Twin Swords,746,52b01d99-d60c-55df-a187-a8ceeb0238da,candidate_exact_brand_mold
+yikun-view,Yikun,View,751,7053d391-a028-5ef6-867d-a79798580b90,candidate_exact_brand_mold
+yikun-wei,Yikun,Wei,747,620d2348-59c3-5b52-8141-79c3dd0df031,candidate_exact_brand_mold
+yikun-wings,Yikun,Wings,755,25781cba-4161-5324-9172-831427d130a0,candidate_exact_brand_mold
+yikun-xing,Yikun,Xing,21973,47468931-b323-518c-9625-91536999d33e,candidate_exact_brand_mold
+yikun-yan,Yikun,Yan,21979,9a0d8363-220c-56de-80ba-7e255aea0a71,candidate_exact_brand_mold
+yikun-yao,Yikun,Yao,55027,45bfde39-12cf-5d8e-a17e-1ac243f9ab68,candidate_exact_brand_mold
+yikun-yi,Yikun,Yi,75965,705d8d78-a4af-590b-b64c-c64a591c04ce,candidate_exact_brand_mold
+yikun-zheng,Yikun,Zheng,75959,f5a1948c-46d3-534f-8082-8d36f0d3a3ee,candidate_exact_brand_mold

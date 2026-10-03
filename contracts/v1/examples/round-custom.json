@@ -1,0 +1,26 @@
+{
+  "data": {
+    "id": "aaaaaaaa-aaaa-4aaa-8aaa-aaaaaaaaaaaa",
+    "owner_user_id": "ffffffff-ffff-4fff-8fff-ffffffffffff",
+    "participant_id": "bbbbbbbb-bbbb-4bbb-8bbb-bbbbbbbbbbbb",
+    "course_id": "22222222-2222-4222-8222-222222222222",
+    "layout_version_id": null,
+    "layout_name": "My two-hole practice route",
+    "data_version": "synthetic-2026-10-02-v1",
+    "status": "live",
+    "revision": 0,
+    "started_at": "2026-10-02T16:00:00Z",
+    "completed_at": null,
+    "holes": [
+      { "id": "cccccccc-cccc-4ccc-8ccc-ccccccccccc1", "hole_number": 1, "source_layout_hole_id": null, "par": null, "distance_ft": null, "par_source": null, "par_provenance": null, "distance_provenance": null },
+      { "id": "cccccccc-cccc-4ccc-8ccc-ccccccccccc2", "hole_number": 2, "source_layout_hole_id": null, "par": null, "distance_ft": null, "par_source": null, "par_provenance": null, "distance_provenance": null }
+    ],
+    "scores": [
+      { "snapshot_hole_id": "cccccccc-cccc-4ccc-8ccc-ccccccccccc1", "hole_number": 1, "strokes": null },
+      { "snapshot_hole_id": "cccccccc-cccc-4ccc-8ccc-ccccccccccc2", "hole_number": 2, "strokes": null }
+    ],
+    "played_holes": 0,
+    "total_strokes": null,
+    "vs_par": null
+  }
+}

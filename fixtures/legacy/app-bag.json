@@ -1,0 +1,10 @@
+{
+  "state": {
+    "discs": [
+      { "id": "test-putter", "name": "Test Putter", "brand": "Synthetic Discs", "category": "Putters & approach", "speed": 2, "glide": 3, "turn": 0, "fade": 1 },
+      { "id": "test-driver", "name": "Test Driver", "brand": "Synthetic Discs", "category": "Distance drivers", "speed": 10, "glide": 5, "turn": -1, "fade": 2, "stability": 1, "pic": "https://example.invalid/synthetic-flight.png" }
+    ],
+    "seeded": true
+  },
+  "version": 0
+}

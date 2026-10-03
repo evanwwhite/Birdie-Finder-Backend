@@ -1,0 +1,24 @@
+{
+  "name": "birdie-finder-backend",
+  "private": true,
+  "version": "0.1.0",
+  "scripts": {
+    "start": "supabase start",
+    "reset": "supabase db reset --local",
+    "test:db": "supabase test db",
+    "test:fixtures": "node scripts/verify-fixtures.mjs",
+    "test:legacy": "node scripts/test-legacy-web.mjs",
+    "smoke:solo": "node scripts/smoke-solo.mjs",
+    "smoke:legacy:web": "node scripts/smoke-legacy-web.mjs",
+    "test:recovery:local": "node scripts/recovery-drill.mjs",
+    "review:catalog": "python3 scripts/import/review_existing_catalog.py",
+    "stage:catalog:synthetic": "node scripts/import/stage_catalog.mjs fixtures/catalog/synthetic-batch.json",
+    "stop": "supabase stop"
+  },
+  "devDependencies": {
+    "supabase": "2.118.0"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "error": {
+    "code": "STALE_REVISION",
+    "message": "The round changed. Refresh it before editing this score.",
+    "details": {
+      "round_id": "66666666-6666-4666-8666-666666666666",
+      "participant_id": "77777777-7777-4777-8777-777777777777",
+      "hole_number": 1,
+      "expected_revision": 0,
+      "current_revision": 1,
+      "current_strokes": 3
+    }
+  }
+}

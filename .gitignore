@@ -1,0 +1,10 @@
+node_modules/
+.env
+.env.*
+!.env.example
+supabase/.branches/
+supabase/.profiles/
+supabase/.temp/
+supabase/.experimental/
+supabase/.sessions/
+.DS_Store

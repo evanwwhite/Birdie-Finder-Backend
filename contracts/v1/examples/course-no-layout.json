@@ -1,0 +1,14 @@
+{
+  "data_version": "synthetic-2026-10-02-v1",
+  "data": {
+    "id": "22222222-2222-4222-8222-222222222222",
+    "name": "Synthetic Open Field",
+    "city": "Testville",
+    "state": "TS",
+    "location": null,
+    "reported_hole_count": 2,
+    "reported_hole_count_provenance": { "source_type": "synthetic_fixture", "verification": "synthetic" },
+    "published_layout_version_ids": [],
+    "attribution": null
+  }
+}
